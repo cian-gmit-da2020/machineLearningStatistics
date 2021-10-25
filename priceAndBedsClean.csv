@@ -1,0 +1,1913 @@
+,prices,Address,Beds
+0,130000," Aylroe, Kildysart, Clare",2
+1,325000," 4 Bluebell Road, Bluebell, Dublin 12",3
+2,2300000," 37 Bushy Park Road, Rathgar,   Dublin 6",4
+3,500000," 7 Dromard Terrace, Sandymount, Dublin 4",3
+4,3750000," Brentwood,10 Sydenham Road, Dundrum, Dublin 14",6
+5,750000," 31 Mapas Road, Dalkey,   County Dublin",3
+6,2350000," 5 The Range,Donadea,Co. Kildare,W91 P7XH",2
+7,425000," Rooks Rest, , Rathangan, Kildare",5
+8,275000," Brookfield House, Tincurry, Cahir, Co. Tipperary",6
+9,415000," 66 Hunters Avenue, Ballycullen, Dublin 24",3
+10,279000," 33 College Gate,Summerville Avenue,South Circular Road,V94 Y5DA",3
+11,290000," 20 Hollymount, Church Road, Raheen, Raheen, Limerick",4
+12,390000," 92 Log Na GCapall,South Circular Road,Limerick,V94 NP7K",4
+13,450000," 8 Renmore Park, Renmore, Galway City",4
+14,495000," St Jude's, Ballymore Eustace, Naas, Co Kildare",3
+15,310000," 27 Belard Manor,Glenealy,County Wicklow,A67 PX47",3
+16,315000," Chez Nous, Coolagh Road, , Dungarvan, Waterford",3
+17,350000," Sunnyside Hill Terrace , Bandon, Cork",3
+18,285000," 29 Carraig Mor,Lackagh,Co. Galway,H65 AE73",4
+19,445000," 7 Abbywell, Chapel Lane, , Malahide, Dublin",2
+20,195000," Ross,Kilbaha,Kilrush,Co. Clare,V15 CC61",4
+21,235000," 28 Priory Square, St Raphael's, Celbridge, Kildare, W23 VN56",2
+22,2500000," ""Alma"", Park, Wexford Town, Wexford",8
+23,895000," 45 Hyde Road, Dalkey, Co. Dublin",3
+24,375000," 26 Sullivan Street, Stoneybatter, Dublin 7",2
+25,349950," 43 Balfe Avenue, Walkinstown,   Dublin 12",3
+26,220000," 30 Middletown Valley, Riverchapel, Courtown, Wexford",4
+27,845000," 37 Leopardstown Avenue,Blackrock,Co Dublin,A94 X227",4
+29,375000," 9 Coolmine Cottages, Mulhuddart, Dublin 15",3
+30,745000," 24 Orwell Road, Rathgar, Dublin 6",4
+31,330000," 14, Kiltipper Drive, Aylesbury , Tallaght, Dublin 24",3
+32,235000," Glenbrook, Castletownsend, Cork",3
+33,505000," Skryne, Tara, Meath",5
+34,310000," 8 Oaktree Green, Cunnaberry Hill, Kildare, Co. Kildare",3
+35,260000," 33 Ard Mor Drive, Tallaght,   Dublin 24",3
+36,300000," 15 Brookhaven Lawn, Blanchardstown, Dublin 15",3
+37,1150000," Lisieux, 16 The Rise, Barnhill Road, Dalkey, County Dublin",4
+38,175000," Mary Street South, Dundalk, Louth",2
+39,270000," 134 Silversprings Lawn, Mayfield, Cork",3
+40,525000," 45 CHURCH AVENUE, Drumcondra, Dublin 9",2
+41,1175000," Garinish,19A Greenfield Park,Donnybrook,Dublin 4,D04 K6F6",3
+42,375000," 23 Fleming Road, Drumcondra, Dublin 9",2
+43,225000," No. 46 Meadow Park, Westport Road, Castlebar, Mayo",3
+44,495000," 1 Clarence Place, Summerhill North, Cork City, Cork",6
+45,150000," Cappagh, Glenmore, Kilkenny",4
+46,410000," 229 The Avenue, Petitswood Manor, Mullingar, Westmeath",4
+47,295000," 'St Teresa's' Mail Coach Road, Sligo City, Sligo",3
+48,450000," 65 WALSH ROAD, Drumcondra, Dublin 9",3
+49,265000," 20 Birchwood Drive, Springfield, Tallaght, Dublin 24",3
+50,189950," 35 The Millrace,Burrin Road,Carlow,R93 X6E4",3
+51,5000000," 2 Harcourt Mews, South City Centre, Dublin 2",2
+52,550000," 13 Silver Pines, Stillorgan, County Dublin",3
+53,925000," The Sheldon, The Gallops, Clonee, Dublin 15",5
+54,570000," 62 Grosvenor Court , Clontarf, Dublin 3",3
+55,395000," 3 Windele Road, Drumcondra, Dublin 9",2
+56,475000," 19 Cairnbrook Manor, Carrickmines, Dublin 18",2
+57,199000," Culmore,Kilkelly,Co Mayo,F35 DD21",6
+58,610000," 7 Heathervue , Greystones, Wicklow",4
+59,175000," 26 Butler Avenue, Thurles, Tipperary",2
+60,700000," Main Street, Rathdowney, Laois",3
+61,395000," `Ardeeven`, Sligo Road, ., Ballaghaderreen, Co. Roscommon",5
+62,420000," 9 Spencer Street North, North Strand, Dublin 3",3
+63,299000," 4 Moy Elta Road, East Wall, Dublin 3",3
+64,345000," 75 Caledon Road, East Wall, Dublin 3",3
+65,698000," Whitebarn Road, Dublin 14, Dublin",3
+66,175000," The Hawthorns, Roseleigh, Mooncoin, Co. Kilkenny",3
+67,350000," 26 Landsdowne Valley Park, Drimnagh, Dublin 12",3
+68,200000," 18 Highfield,Newtownshandrum,Charleville,Co. Cork,P56 WP27",3
+69,385000," Coolnamuck Road, Carrickbeg, Carrick-on-Suir, Tipperary",4
+70,148000," 29 Church Street, Templemore, Tipperary",4
+71,600000," 19 Aranleigh Mount, Rathfarnham,   Dublin 14",4
+72,180000," 47 Lakeview Drive, Lakeside, Kilkenny, Kilkenny",2
+73,285000," 112 Beech Park Ballincollig Co. Cork, Ballincollig, Cork",3
+74,440000," Dunlough,Robinstown,Co Meath,C15 FV08",4
+75,795000," 57 Lower Dodder Road, Rathfarnham,   Dublin 14",3
+76,699000," Gleann Aenghus, Gorey, Wexford",5
+77,349000," 20A Cherryfield Lawn, Clonsilla, Dublin 15",4
+78,385000," 12 Albert College Drive, Glasnevin, Dublin 9",3
+79,175000," Cloncoe, Woodford, Galway",3
+80,330000," 17 Ribh Road, Artane, Dublin 5",2
+81,349500," Riverdale, Bridgetown, Clare",4
+82,300000," Rose Cottage, Ballykillavane, Glenealy, Wicklow",2
+83,489000," 52 Kilheale Drive ""The Oaks"", Kill, Kildare",4
+84,214950," 21 An Glasan, Greenville, Enniscorthy, Co. Wexford",3
+85,650000," 20 Cypress Park, Templeogue, Dublin 6W",4
+86,395000," 65 The Elms, Newbridge, Kildare",4
+87,280000," Knockane, Ballyclough, Mallow, Cork",4
+88,495000," 1A Lomond Ave, Fairview, Dublin 3",3
+89,175000," 1 Coolreagh, Killanny, Carrickmacross, Monaghan",3
+90,220000," 44 Belvedere Hills, Mullingar, Westmeath",4
+91,360000," 4 Drynam Walk, Drynam Hall, Kinsealy, Dublin",3
+92,550000," Glendown, Dooneen, Kilmeaden, Waterford",5
+93,289950," 48 Canterbrook, Navan, Meath",3
+95,280000," 8 Gracemeadow Walk, Balbriggan, Dublin",3
+96,530000," Greybrook, Silversprings Road, Tivoli, Cork",7
+97,200000," 2 Station Road, Kildare Town, Kildare",3
+98,2600000," 9 Lough Sillan Lodge,Shercock,Co. Cavan,A81 KW58",6
+99,230000," 16 Spireview Rise, Johnstown, Navan, Meath",2
+100,425000," 15 GROVE PARK ROAD, Glasnevin, Dublin 11",3
+101,210000," 32 Tir an Choir, Tuam, Galway",3
+102,425000," 10 Walkinstown Road, Walkinstown, Dublin 12",3
+103,135000," 3 North Cross Lane, Youghal, East Cork",2
+104,320000," 27 Castleland Park Drive , Balbriggan, Dublin",3
+105,299000," 2 Park Avenue, Wexford Road, Arklow, Wicklow",4
+106,1050000," 3 Oulton Road, Clontarf, Dublin 3",3
+107,320000," 8 Glin Park , Coolock, Dublin 17",3
+108,198000," Mullaghmore, Bawnboy, Co Cavan, H14 PX70",4
+109,365000," 59 Stonebridge, Ratoath, Co Meath, A85 NC59.",3
+110,1200000," 3b Durham Road, Sandymount, Dublin 4",4
+111,395000," 17 Meath Place, South City Centre, Dublin 8",2
+112,110000," 84 Woodstream,Coolaney,Co. Sligo,F56CY65",2
+113,165000," 64 Ossory Park, Kilkenny, Kilkenny",3
+114,440000," 42 Gracefield Road, Artane, Dublin 3, Dublin",4
+115,320000," 24 Monalee Manor, Ballymoneen Road, Knocknacarra, Galway City",3
+116,675000," 28 Springfield Crescent, Templeogue D6WHF89, Templeogue, Dublin 6W",3
+117,385000," 132 Leargan, WDR, Knocknacarra, Galway City",4
+118,145000," Aghaloonteen, Lahardane, Ballina, Mayo",2
+119,280000," 20 Finglaswood Road, Finglas, Dublin 11",3
+120,490000," 22 Grattan Hill , St. Luke's, Cork City, Cork",3
+121,385000," 35 Clonliffe Gardens, Drumcondra, Dublin 3 D03 DW08",3
+122,795000," Curraghtemple, Nenagh, Tipperary, E45 W562",5
+123,320000," 29 An Gleib,Ballivor,Co Meath,C15 C7D7",4
+124,1095000," 44 Ormond Road,Rathmines,Dublin 6,DO6R5T8",4
+125,395000," ""Aisling"", Skevanish, Innishannon, Cork",4
+126,189950," 20 Stoneyford Park, Delvin, Westmeath",3
+127,240000," 36 Pococke Upper, Johnswell Road, Kilkenny, Kilkenny",3
+128,180000," No 15 Fair Fields, The Close, Adamstown, Wexford",3
+129,1000000," The Old Rectory Site,Coolgreany Road,Lamberton,Arklow,Co. Wicklow",5
+130,795000," ""Riverview"", Lower Kensington, Coach Hill, Rochestown, Cork, Rochestown, Cork City",4
+131,439500," 64a Forest Avenue, Kingswood, Dublin 24",4
+132,495000," Blue Haze 22 Main Road, Tallaght, Dublin",3
+133,295000," 4 Red Abbey Court, Margaret Street, Cork City, Cork",3
+134,210000," 31 Beechwood Gardens, Newcastle West, Limerick",4
+135,79950," Ardlougher,Carrick On Shannon,Co Leitrim,N41 Y6D0",2
+136,875000," 13 Longwood, Clonskeagh, Dublin 14",4
+137,475000," 17 Luttrellstown Oaks, Castleknock,   Dublin 15",3
+138,199000," Aghaboneill, Gorvagh, Leitrim",3
+139,299000," 16 Holywell Avenue, Swords, County Dublin",2
+140,575000," Moyville Cottage,Blacklion,Greystones,Co Wicklow,A63XK85",3
+141,825000," 25 Mulgrave Street, Dun Laoghaire, Dublin",7
+142,235000," 73 Knockmoyle, Tralee, Kerry",3
+143,137500," 1 Water Court, Water Street, Castlepollard",3
+144,630000," 84 Abbeyfield, Killester, Dublin 5",2
+145,699500," Castledonovan, Drimoleague, West Cork",7
+146,450000," 77 Forest Drive, Kingswood, Dublin 24",5
+147,245000," 47 Harbour Row, Cobh, Cork",3
+148,325000," 121 Cromcastle Road, Coolock, Kilmore, Dublin 5, Kilmore, Dublin 5",4
+149,425000," Ballinamore,Kiltimagh,Co Mayo,F12ND29",5
+150,240000," 4 Monivea Park, Ballybane, Galway City",3
+151,450000," 7 Thirlestane Terrace, Thomas Court, The Liberties, Dublin 8, Dublin",4
+152,525000," 8 Thirlestane Terrace, Thomas Court, The Liberties, Dublin 8, Dublin",3
+153,375000," 14 Fernley Court, Long Lane, Dublin 8, Dublin",2
+154,350000," 6 Harty Place, D08, Portobello, Dublin 8",1
+155,450000," 4 Reuben Avenue, D08, Rialto, Dublin 8",3
+156,215000," 3 Fitzgerald Place, Rosbrien Road, Limerick City, Limerick",3
+157,170000," 12 Abhann Dubh, Portarlington, Laois",2
+158,1750000," Cross Street, Loughrea, Co. Galway",3
+159,3500000," Currahally, Farnanes, Co. Cork",5
+160,585000," 3 Richmond Lane, Off Richmond Hill, Rathmines, Dublin 6",3
+161,399950," 6 Mc Dowell Avenue, Mount Brown, Dublin 8, Dublin",2
+162,475000," 22 Russell Avenue , Drumcondra, Dublin 3",2
+163,350000," The Old Post Office, Church Cross, Skibbereen,   West Cork",3
+164,550000," 7 Oxford Terrace, Hawthorn Terrace, East Wall, Dublin 3",3
+165,179500," 6 New Terrace, Abbeyleix, Laois",2
+166,580000," 30 Seabury Avenue, Malahide, County Dublin",3
+167,485000," 10 Dawson Court, Cross Avenue, Blackrock, Co. Dublin",2
+168,1795000," Fairfield Villa, 20 Fairfield Park, Rathgar, Dublin 6",5
+169,1295000," 183 Rathmines Road Upper, Rathmines, Dublin 6",5
+170,450000," 336 South Circular Road, South Circular Road, Dublin 8",3
+171,310000," 2 Fisherman`s Rest, Higher O`Connell Street, Kinsale, Co. Cork",3
+172,995000," 13 Clonkeen Road, Deansgrange, Blackrock, County Dublin",4
+173,120000," 31 Dean's Lane,Tralee,Co. Kerry,V92 D6DP",2
+174,395000," 24 Synnott Row,Phibsborough,Dublin 7,D07 T280",3
+175,220000," Drumully,Emyvale,Monaghan,H18Y970",4
+176,395000," Avondale,Betaghstown,Clane,Co Kildare,W91E8W6",4
+177,185000," Braide, Glencolmcille, Donegal",4
+178,450000," Thatched Cottage,Derreendrislagh,Gleesk,Sneem,Co Kerry",4
+179,1035000," 2 The Avenue, Cypress Downs, Templeogue, Dublin 6W",4
+180,1350000," 3 Bedroom House,Annesley Gardens,Ranelagh,Dublin 6",3
+181,2500000," The Charleston Town Homes - 56-59 Charleston Road, Ranelagh, Dublin 6, Ranelagh,   Dublin 6",4
+182,240000," 17 Caiseal Na Ri,Golden Road,Cashel",3
+183,139000," 52 An Duiche,Tipperary,Co. Tipperary,E34 C568",3
+184,695000," 47 Belarmine Drive,Belarmine Woods,Stepaside,Dublin 18,D18 VFE8",4
+185,450000," 123 Drimnagh Road, Walkinstown, Dublin 12",3
+186,95000," 17 Chapel Lane,Cashel,Tipperary,E25 A393",2
+187,775000," 13 Hermitage View,Rathfarnham,Dublin 16,D16 W727",4
+188,935000," The Shelby, The Gallops, Clonee, Dublin 15",5
+189,249000," 8 Laragh Beg,Ballon,Co Carlow,R93 HX45",4
+190,345000," 40 Cedar Avenue, Ridgewood, Swords, Co. Dublin",3
+191,550000," 2 Grove Village, Grove Road , Rathmines, Dublin 6",2
+192,285000," 25 Racefield, Gouldavoher, Co. Limerick",4
+193,235000," 9 Cherry Garth,Brecan Close,Balbriggan,Co. Dublin,K32 YY40",2
+194,525000," 83 Collins Avenue, Whitehall, Dublin 9",3
+195,299000," 53 Castle Park, D24, Tallaght, Dublin 24",3
+196,249000," 5 Millrace, Bealnamulla, Athlone, ., Co. Roscommon",4
+197,195000," 29 Woodlands, Virginia Road, Ballyjamesduff, Co. Cavan",4
+198,395000," 113 Sugarloaf Crescent, Bray, Co. Wicklow",3
+199,425000," 12 Elgin Heights, Bray, Co. Wicklow",3
+200,295000," 10 Woodlands, Clonsilla, Dublin 15",3
+201,300000," 6 Brookhurst,Collins Avenue,Dunmore Road,Waterford,X91 Y7R0",3
+202,1150000," 85 Lower Churchtown Road, Churchtown, Dublin 14",4
+203,189500," 3 The Orchard,Rathvilly,Co. Carlow,R93 D436",3
+204,239000," Ard Luma, Drummond Otra, Carrickmacross, Co. Monaghan",4
+205,295000," Graigue,Ardfert,Co. Kerry,V92PF24",5
+206,575000," 69 Glasnevin Avenue, Glasnevin Nth, Dublin 11",3
+207,300000," Corliss House, Frances Street, Kilrush, Clare",8
+208,205000," 23 Ath Lethan, Racecourse Road, Dundalk, Co. Louth",3
+209,695000," 1 Dargle Drive, Rathfarnham, Dublin 14",4
+210,345000," 17 Clonliffe Avenue,Drumcondra,Dublin 3,D03 F5Y9",3
+211,3750000," 44 Fitzwilliam Square, Dublin 2, South City Centre",5
+212,167500," 40 Dun na Ri,Shannon,Co Clare,V14 TX04",2
+213,925000," 10 The Court, Donnybrook Castle, Donnybrook, Dublin 4",4
+214,220000," Love Lane, Charleville, Cork",4
+215,285000," Barnacarroll,Claremorris,Co Mayo,F12 Y5R5",4
+216,235000," Bauravilla, Skibbereen, West Cork",6
+217,110000," Coolacoosane (Caum),Macroom,Co. Cork.,P12A377",2
+218,695000," Kilcaiman, Oranmore, Galway",5
+219,270000," 307 Glanntan, Castletroy, Limerick",3
+220,485000," Gortybrigane,Birdhill,Co Tipperary,V94 WR0X",4
+221,239000," 31 O'Hanlon Park, Dundalk, Co. Louth",4
+222,485000," 33 Old Chapel Grove,Caragh,Naas,Co Kildare,W91 VK6H",4
+223,100000," 29 Rockhill Holiday Park, Kerrykeel, Co. Donegal",3
+224,140000," 38 Athenry Road, Tuam, Galway",3
+225,975000," 1 Mount Pleasant Villas, Upper Dargle Road, Bray, Wicklow",5
+226,8900000," Summerhill, Marino Avenue West, Killiney, Co. Dublin",7
+227,299000," 48 Gort Na Ri,Ennis,Co. Clare,V95 E3YX",5
+228,280000," Tullyard, Emyvale, Monaghan",3
+229,240000," 1 The Villas, Owenabue Heights, Ballea Road, Carrigaline, Cork",3
+230,395000," 20 Arbour Place, Stoneybatter, Dublin 7",2
+231,595000," 3 Bluebell Woods, Oranmore, Co. Galway",4
+232,525000," 2 Park Heights, Grange Rath, Drogheda, Meath",4
+233,249000," 15 Moycullen Road, Ballyfermot,   Dublin 10",3
+234,254950," 112 Finglas Road, Finglas, Dublin 11",3
+235,690000," Woodfield, Glasheen Road, Glasheen, Cork City",5
+236,2850000," Kalafat House, 27 Sorrento Road, Dalkey, County Dublin",4
+237,550000," 69A Glasnevin Park,Glasnevin,Dublin 11,D11 DHP5",3
+238,360000," Ned Doyle's Lane,Creagh,Gorey,Co. Wexford,Y25P584",4
+239,295000," Brook Lodge, Corballis, Rathdrum, Wicklow",3
+240,295000," 7 Millers Square, Lusk Village, Lusk, County Dublin",3
+241,390000," 24 Saint Brigids Road, Clondalkin, Dublin 22",3
+242,295000," 70 St. Samsons Square, Balgriffin, Dublin",3
+243,425000," Stoneyford,17 Wilton Avenue,Bishopstown,Cork,T12AE4A",5
+244,450000," 1 Ros Nua,Poulavone,Ballincollig,Co Cork,P31FF86",4
+245,1700000," 5 Belmont Gardens, Donnybrook, Dublin 4",4
+246,595000," 39 IVERAGH ROAD, Gaeltacht Park, Whitehall, Dublin 9",3
+247,249000," Old Kerryway Cottage, Tahilla, Sneem, Kerry",2
+248,325000," 23 Hollybank Crescent, Clongowen,  Waterford Road, Kilkenny, Kilkenny",4
+249,190000," 19 Hunters Green, Gorey, Wexford",2
+250,160000," 6 Mount Leinster Park, Tullow Road, Carlow Town, Carlow",3
+251,870000," Annamoe, Station Road, Portmarnock,   County Dublin",4
+252,1595000," 35 Percy Place, Ballsbridge, Dublin 4",4
+253,395000," 9 St Brigids Road, North Strand, Dublin 3",3
+254,975000," Prospect,Sallins,Co Kildare,W91 K0E9",5
+255,195000," 53 Dominick Street, City Centre Nth, Cork City",3
+256,300000," Waterview, Turloughmore, Galway",5
+257,159000," 46 John St, Sligo City, Sligo",4
+258,330000," Shandrum, Kilgarvan, Kerry",4
+259,485000," 68 Oliver Plunkett Road, Dun Laoghaire, Co Dublin",3
+260,315000," 48 Raheen Road, Tallaght, Dublin 24",3
+262,3750000," Tallon House,4 Golf Lane,Foxrock,Dublin 18,D18 T2N6",3
+263,490000," The Grange,Aughrim,Co. Wicklow",4
+264,220000," Woodland, Ballyporeen, Tipperary",3
+265,320000," 56 Old Bawn Road, Old Bawn, Dublin 24, Oldbawn",4
+266,450000," 3 Castlechurch Park, Newcastle, Co. Dublin",4
+267,650000," 47 Crumlin Road,, Crumlin, Dublin 12",4
+268,260000," 37 St Marys Crescent, Westport, Mayo",3
+269,230000," 3 Moylaragh Rise,Balbriggan,Co. Dublin,K32 A522",2
+270,297000," 56 The Drive, Harbour Heights, Passage West, Cork",3
+271,225000," 18 The Spires,Deans Street, Kilkenny, Kilkenny",2
+272,325000," 3 Charlestown Drive, Finglas, Dublin 11",3
+273,360000," 3 Fernvale Drive, Crumlin, Dublin 12",3
+274,249950," 59 Madeira Wood, The Moyne, Enniscorthy, Co. Wexford",4
+275,295000," 88 Rathcurragh, Green Road, Newbridge, Kildare",3
+276,315000," 26 Westbrook Close , Balbriggan, County Dublin",3
+277,475000," 2 Leinster Crescent, Old Dublin Road, Co. Carlow",4
+278,450000," Dunkitt, Kilmacow, Waterford",4
+279,495000," 496 Collins Avenue,Whitehall,Dublin 9,D09 PH27",4
+280,475000," 71 Kinvara Road, Navan Road, Dublin 7",3
+281,525000," 'Glena Ville', Glena Terrace, Spawell Road, Wexford Town, Wexford",6
+282,375000," 7 Rinawade View, Leixlip, Kildare",3
+283,259000," Moneylagan, Longford, Longford",4
+284,1150000," Kincora 58 North Avenue, Mount Merrion, Co. Dublin",4
+285,425000," Balcunnin, Skerries, Co. Dublin",4
+286,599000," Formally Rosmoney Spa, Rosmoney, Westport, Co. Mayo",6
+287,240000," No. 7 Pine Grove, Oak Ridge, Ferrybank, Waterford",3
+288,750000," 28 Windsor Terrace, Portobello, Dublin 8",3
+289,275000," 36 St Johns Crescent, Clondalkin, Dublin 22",3
+290,195000," 82 Preston Brook, Rathangan, Co. Kildare",2
+291,349950," 66 Slievenamon Road , Drimnagh,   Dublin 12",2
+292,775000," Myrtleville, 14 Victoria Terrace, South Circular Road, Co. Limerick",5
+293,600000," Donoughmore, Lisronagh, Clonmel, Co. Tipperary",5
+294,1600000," Tone House, Bodenstown, Naas, Co. Kildare. W91W183",4
+295,459000," Thomastown, Arklow, Wicklow",5
+296,650000," 46 Rathasker Heights, Naas, Co. Kildare",5
+297,325000," 23 Maple Lawns, Oldtown Demesne, Naas, Co. Kildare",3
+298,425000," 4 Gerald Street, Ringsend, Dublin 4",1
+299,320000," Ard Rua, Quarry Road, Gracedieu, Waterford City, Waterford",3
+301,259000," Rathuil, Kielty, Athlone, ., Co. Roscommon",3
+302,435000," 15 Haddington Square, Beggars Bush, Ballsbridge, Dublin 4",1
+303,495000," 6 Rahillion Drive, Donabate,   County Dublin",4
+304,375000," 1 The View, Riverbank, Drogheda, Co. Louth",5
+305,95000," Foynes, Shanagolden, Limerick",2
+306,375000," 15 Shelmalier Road, East Wall, Dublin 3",2
+307,245000," Lough Hyne Road, Skibbereen, Cork",3
+308,335000," 23 Bramblefield Park, Clonee, Dublin 15",3
+309,335000," 32 Beechgrove, Heronswood, Carrigaline, Cork",3
+310,249950," 32 Ros Glas Avenue, Monasterevin, Kildare",3
+311,235000," 174 Lower Glanmire Road, Glanmire, Cork",2
+312,430000," 55 Sutton Grove,Sutton, Bayside, Dublin 13",3
+313,195000," No. 38 Oakbrook, Castlelake, Carrigtwohill, Cork",2
+314,425000," 22 Woodmount, Ballinderreen, Galway",4
+315,405000," Cherryville Blossom, Kildare Town, Kildare",4
+316,450000," 11 Charnwood Dale, Clonsilla,   Dublin 15",4
+317,575000," 30 The Heights Woodpark, Ballinteer, Dublin 16",3
+318,305000," 14 Merchant Sqaure, East Wall,   Dublin 3",2
+319,360000," 9 Annfield Drive, Castleknock, Dublin 15",3
+320,295000,"  18 Elm Park, Johnstown Wood, Navan, Meath",3
+321,750000," Gentle House, Knockanree, Avoca, Wicklow",6
+322,2300000," Wish Willow,Whitepark,Arklow,Co. Wicklow,Y14 WY98",4
+323,339000," Schrule View, Monbay Lower, Craanford, Wexford",4
+324,365000," 16 Castlechurch Park, Newcastle, County Dublin",3
+325,715000," 14 Milford, Malahide, Co. Dublin",4
+326,295000," 4 Ashgrove Villas, Ballyvolane, Cork",3
+327,2500000," 2 Orwell Park, Rathgar,   Dublin 6",5
+328,325000," 12 Cois Cuain, Whitegate, Cork",4
+329,285000," 2 Ardfield Court, Grange, Douglas, Cork",3
+330,485000," 68 Wellesley Manor , Newbridge, Kildare",5
+331,380000," 20 Proudstown Road, Navan, Meath",4
+332,260000," 321 Landen Road, Ballyfermot, Dublin 10",2
+333,550000," Maple Drive, Kilcarn, Navan, Meath",6
+334,14000000," 73 Ailesbury Road, Ballsbridge, Dublin 4",7
+335,575000," 38 Coolamber Park, Knocklyon, Dublin 16",4
+336,385000," 96 Tonlegee Road, Raheny,   Dublin 5",3
+337,340000," 371 Boireann Bheag, Roscam, Galway City",4
+338,419950," Wilkinstown, Navan, Meath, C15R7N2",4
+339,795000," 10 Washington Street,South Circular Road,Dublin 8,D08 F6T1",3
+340,250000," Crostera West, Glengarriff,   West Cork",2
+341,260000," 5 Laffin's Lane, Arklow, Wicklow",4
+342,1200000," Haddon Lodge, Thormanby Rd, Howth,   County Dublin",5
+343,545000," Ashleaf House, Great Connell, Newbridge, Kildare",5
+344,205000," 29 Figile Manor, Clonbullogue, Offaly",3
+345,850000," Lee Carrow,Passage West,Co Cork,T12 AC9R",5
+346,450000," 4 Dolphin Avenue, South Circular Road, Dublin",3
+347,450000," 6 Bayside Square East, Sutton, Dublin 13",3
+348,599000," 275 Collins Avenue,Whitehall,Dublin 9,D09 TF30",3
+349,280000," 116 Tubberclaire Meadows, Navan, Meath",4
+350,325000," 10 St John's Avenue,Pimlico,Dublin 8,D08 N6R2",2
+351,210000," 85 Foxfield, Carrickmacross, Monaghan",3
+352,530000," 3 Castle Court,Whitehall Road,Dublin 14,D14 T9K0",3
+353,239000," Carrownlacka,Kilmovee,Ballaghdereen,Co Mayo,F45X523",3
+354,795000," Snugboro, North Circular Road, Limerick",4
+355,425000," 9 Salem Court, Maxwell Road, Rathmines, Dublin 6",2
+356,595000," 42 St Begnet's Villas, Dalkey, Co. Dublin",3
+357,495000," 14 CIAN PARK, Drumcondra, Dublin 9",3
+358,475000," 52 Oldfield, Kingston, Galway",3
+359,265000," Ballykeeffe, Ballycallan, Kilkenny",3
+360,745000," 14 Sandyford Hall Park, Sandyford, Dublin 18",4
+361,380000," 16 Strangford Road, East Wall, Dublin 3",3
+362,750000," Churchfields, Ballyvaltron, Kilbride, Wicklow",4
+363,475000," 7 The Mews, Robswall, Malahide, Dublin",2
+364,525000," 2 Mulvey Park, Dundrum, Dublin 14",3
+365,1400000," Cullenswood Lodge, 12 Richmond Avenue South, Dartry, Dublin 6",3
+366,349000," Kilmisten,Ardcavan,Co Wexford,Y35HP90",4
+367,290000," 31 The Belfry,Trim,Co Meath,C15 T9F9",3
+368,525000," 35 Merrion Strand,Sandymount,Dublin 4,D04 P2P4",2
+369,550000," 23 Delaford Park, Knocklyon, Dublin 16",3
+370,685000," 39 Grattan Park,Salthill,Galway,H91 EWR6",4
+371,495000," 15 Eglinton Wood, Eglinton Road, Donnybrook, Dublin 4  D04 RX72",2
+372,795000," 7 Dunville Avenue, Ranelagh, Dublin 6",3
+373,269500," 32 Park View,Clane,Co Kildare,W91 R9Y6",3
+374,149000," Ballygawley,Co. Sligo,F91WY45",2
+375,325000," Allenview, Allenwood, ., Naas, Co. Kildare",3
+376,350000," Ardagh, Ballina, Mayo",5
+377,170000," 4 Shanid Gardens, Shanagolden, Limerick",3
+378,895000," 12 St Gabriels, Johnstown Road, Cabinteely, Dublin 18",5
+379,500000," 31 Edmondstown Green, Rathfarnham, Dublin 16",3
+380,158950," 19 Dooleys Terrace,Athy,Co Kildare,R14 PA07",2
+381,550000," Residence at Castlepoint , Schull,   West Cork",4
+382,440000," Dunlough,Robinstown,Co Meath,C15 FV08",4
+383,395000," 13 Fernleigh Close, Castleknock, Dublin 15",3
+384,325000," 100 Northway Estate, Finglas, Dublin 11",3
+385,285000," 40 Main Street, Drimoleague,   West Cork",5
+386,145000," 10 Clement Court. Lough Rynn , Mohill, Leitrim",4
+387,215000," 58 O Molloy Street,Tullamore,Co Offaly,R35P791",4
+388,825000," 2 Seafield Close, Blackrock, County Dublin",4
+389,420000," 1 The Rath,Sandyhill,Rolestown,Co. Dublin,K67 CD37",3
+390,400000," Sleepy Hollow,Wood Road,Cratloe,Co Clare,V95 W0V5",4
+391,595000," 13 Templeroan Court, Rathfarnham, Dublin 16",3
+392,1100000," Hanover, 69 Churchtown Road Upper, Churchtown, Dublin 14",5
+393,385000," Elderfield,Castletown,Co. Laois,R32V6RE",4
+394,495000," Coolkirky,Riverstick,Kinsale,Co Cork,P43 PC85",5
+395,235000," Hillcrest, 2 The Paddock, Newtown, Ballynoe, Co. Cork",3
+396,745000," 5 Annamoe Road, North Circular Road, Dublin 7",4
+397,1100000," Chicane, Mullinastill Road, Rathmichael, Dublin 18",4
+398,1175000," 4 Woodside, Clontarf, Dublin 3",4
+399,229000," 32 Coolraine Heights, Old Cratloe Road, Limerick City, Limerick",3
+400,330000," Aughnaseda,Monaghan,Co. Monaghan,H18 X339",4
+401,355000," 40 Cairnsfort, Golf Links Road, Castletroy, Limerick",4
+402,310000," 2 Fisherman`s Rest, Higher O`Connell Street, Kinsale, Co. Cork",3
+403,347500," 12 Rialto Street, Rialto,   Dublin 8",3
+404,890000," Ard Caoin,Manorhamilton Road,Sligo,F91P6P8",5
+405,270000," Garryduff,Templeboy,Co. Sligo,F91YF97",5
+406,325000," 54 Cragaun, Father Russell Road, Limerick, Dooradoyle, Co. Limerick",4
+407,395000," 32 Whitechurch View, Rathfarnham, Dublin 16",3
+408,430000," 127 The Grove,Celbridge,Co. Kildare,W23 X529",4
+409,925000," The Sheldon, The Gallops, Clonee, Meath",5
+410,425000," 20 Botanic Road, Glasnevin, Dublin 9",3
+411,285000," 124 Meadow Gate,Gorey,Co. Wexford,Y25 X9W2",3
+412,250000," 16 Ard Lios,Gorey,Co. Wexford,Y25WP59",3
+413,1495000," 124 Leeson Street Upper, Donnybrook,   Dublin 4",4
+414,165000," 4 Riverview, Chapelstown Gate, Tullow Road, Carlow Town, Carlow",3
+415,95000," Kilmurry, Castlerea, Co. Roscommon",2
+416,364950," 147 Aulden Grange, Santry, Dublin 9",3
+417,379000," 2 Whitworth Avenue, Drumcondra, Dublin 3",2
+418,185000," 6 Ballin Ri, Tullamore, Co. Offaly",2
+419,595000," 147 Charlemont, Griffith Avenue, Drumcondra, Dublin 9",4
+420,349950," 8b Magenta Crescent, Santry, Dublin 9",3
+421,535000," 143 Old Finglas Road, Glasnevin, Dublin 11",3
+422,374950," 2 Old Town Road, Santry, Dublin 9",3
+423,355000," 49 Knocknacarra Park, Galway, Knocknacarra, Co. Galway",3
+424,2650000," Abbotsford,Brighton Road,Foxrock,Dublin 18,D18 P2C3",5
+425,795000," 1 The Heath, Circular Road, Bushypark, Galway City",5
+426,725000," 16 Fairhaven Road, Castleknock, Dublin 15",4
+427,210000," 5 Carraig Abhainn, Ballisodare, Sligo",3
+428,500000," 10 Barnwell Grove, Hansfield, Clonsilla,   Dublin 15",4
+429,220000," 115 Rathedmond, Sligo City, Sligo",5
+430,625000," 1 Newtown Clarke Cottage, Old Lucan Road, Palmerstown, Dublin 20",3
+431,695000," 55 Beech Drive, Dundrum, Dublin 14",5
+432,120000," 23 Carrowmore Meadows, Carrowmore, Knock, Mayo",4
+433,370000," 30 Newtown Drive, Ayrfield, Dublin 13",3
+434,299000," 37 Mount Olive Park, Kilbarrack, Dublin 5",3
+435,395000," 6 Chanel Avenue, Artane, Dublin 5",3
+436,480000," 15 Brookwood Drive, Artane, Dublin 5",3
+437,265000," 15 Sheephill Green, Blanchardstown, Dublin 15",4
+438,425000," 13 COOLATREE CLOSE, Beaumont,   Dublin 9",4
+439,850000," 40, 42 The Stiles Road, Clontarf, Dublin 3",6
+440,499000," 221 Swords Road, Santry, Dublin 9",3
+441,140000," 1 Convent Street, Limerick City, Limerick",3
+442,550000," 102 IVERAGH ROAD, Whitehall, Dublin 9",3
+443,565000," Derry Quay, Cross, Co Mayo, Cross, Mayo",6
+444,1250000," 5 Knocklyon Avenue, Knocklyon, Dublin 16",6
+445,625000," 344 South Circular Road, Dolphins Barn,   Dublin 8",4
+446,250000," 13 Bellgree Rise, Tyrrelstown, Dublin 15",2
+447,250000," 3 Mount Garrett Crescent  , Tyrrelstown, Dublin 15",2
+448,550000," 116 Heathervue, Greystones, Co. Wicklow",3
+449,400000," The Elms, Drinagh, Wexford Town, Wexford",8
+450,349000," Tory View,Ryleen,New Ross,Co. Wexford",4
+452,300000," 41 Beechwood Downs, Clonsilla, Dublin 15",3
+453,495000," 34 Steeplechase Wood,Ratoath,Co Meath,A85 WD35",4
+454,580000," 21 Milltown Road,Ashbourne,Co Meath,A84 P786",4
+455,415000," 1 Camden Buildings, Portobello, South City Centre, Dublin 2",3
+456,399000," 4 Victoria Terrace, Dundrum, Dublin 14",2
+457,240000," 133 Forest Park, Ballymakenny Road, Drogheda, Co. Louth",3
+458,520000," Hamilton Heights, Blackrock, Louth",4
+459,125000," Pollranny, Castleplunkett, Roscommon",3
+460,695000," 18 Ryemont Abbey, Leixlip, Kildare",5
+461,190000," 8 Kilbride Close, Kilbride Gardens, Clara, Co. Offaly",3
+462,1175000," 3 Carrickmines Dale, Carrickmines, Dublin D18 K7W3",5
+463,825000," 5 Blackheath Avenue, Clontarf, Dublin 3",4
+464,850000," 17 Meadowfields, Sandyford,   Dublin 18",5
+465,275000," 52 Castleview, Dunboyne, Meath",3
+466,1350000," 27 Frascati Park,Blackrock,Co Dublin,A94 V9X3",4
+467,485000," 3 Cherryfield, Monaleen, Castletroy, Limerick",5
+468,325000," Murrintown Upper, Co. Wexford, Murrintown, Wexford",3
+469,645000," Lynton, 5 Roseville Terrace, Dundrum Road, Dublin 14, Dublin",4
+470,2000000," Ardeevin, Tulsk, Castlerea, Co. Roscommon",4
+471,250000," 93 Beech Park, Ballincollig, Cork",3
+472,395000," 13 St Finbar's Road, Cabra, Dublin 7",3
+473,340000," 340 Riverforest, Leixlip, Kildare",3
+474,285000," 220 Griffin Rath Hall, Maynooth, Kildare",3
+475,240000," 10 Golden Ridge Lodge, Rush, Dublin",2
+476,149500," No. 34 Barrack Street, Wexford Town, Wexford",4
+477,595000," 10 Hillview Cottages, Pottery Road, Glenageary, County Dublin",3
+478,350000," 102 Springdale Road, Raheny, Dublin 5",3
+479,200000," 1 Slievardagh, Grangemockler, Carrick-on-Suir, Co. Tipperary",4
+480,319950," 20 St. Edmund's Park, Lucan, County Dublin",3
+481,570000," 1 Diswellstown Chase, Castleknock, Dublin 15",3
+482,319000," The Primrose, Linenfield, Ballymakenny Road, Drogheda, Co. Louth, Drogheda, Louth",3
+483,740000," 60 Leinster Park, Harold's Cross,   Dublin 6W",4
+484,259950," 73 Red Arches Avenue, Baldoyle, Dublin 13",2
+485,198000," 10 Rann Mor Walk, Letterkenny, Donegal",4
+486,299000," 43 Fforster Lawn,Lucan,Co. Dublin.,K78 PX30",2
+487,389950," 56 Glentow Road, Whitehall, Dublin 9",3
+488,850000," Ceann Mara, Blackrock Road, Blackrock, Cork",5
+489,9500000," Ballycurrin Demesne, Ower, Claremorris, Mayo",4
+490,275000," The Presbytery, Burnfort, Mallow, Cork",3
+491,395000," 138 Mountainview Park, Churchtown, Dublin 14",4
+492,475000," 4 Ballinteer Gardens, Ballinteer, Dublin 16",3
+493,249000," 54 Belfry Grove, Citywest, County Dublin",3
+494,255000," 11 Gleann Dara Green, Grenagh, Cork",3
+495,1350000," 1A Percy Lane,Ballsbridge,Dublin 4,D04 FK51",3
+496,275000," 11 Kearns Place,Kilmainham,Dublin 8,D08 HX2P",2
+497,299000," 48 Rialto Cottages,Rialto,Dublin 8,D08 DT9H",1
+498,425000," 1 St Davids Terrace, Blackhorse Avenue, North Circular Road, Dublin 1",4
+499,495000," 13 Stella Avenue, Drumcondra, Dublin 3",3
+500,295000," Derrynakilla, Coomhola, Bantry,   West Cork",4
+501,430000," Lilac Cottage, Ballymitty, Wexford",3
+502,195000," Lissavruggy, Newbridge, Co. Galway",4
+503,320000," Hollymount, Bo Choill Road, Co. Laois, Ireland, Carlow Town, Carlow",2
+504,570000," Mary Mount, Emmet Place, Youghal, East Cork",6
+505,298000," 1 Park Terrace, Cobh, Cobh, Cork",2
+506,629950," 90A St Peter's Terrace, Howth, County Dublin, D13 F2W8",3
+507,295000," 8 Liffey Mill Avenue, Athgarvan, Newbridge, Kildare",3
+508,365000," 24 Rowan Hill Mount Oval Village, Rochestown, Cork City",3
+509,255000," 3 Cardy Rock Road, Balbriggan, County Dublin",3
+510,395000," 58 Clover Hill,Bray,Wicklow,A98 P9Y6",3
+511,415000," 110 Wheatfield,Boghall Road,Bray,Co. Wicklow,A98 EK88",3
+512,420000," 28 Saran Wood,Killarney Road,Bray,Wicklow,A98 X732",3
+513,785000," Cragmoher House,Cragmoher,Corofin,Co Clare,V95W9K6",5
+514,2300000," 17 Herbert Park,Ballsbridge,Dublin 4,D04 K7E5",6
+515,289000," 26, 27, 28, 29 Corr An Tobhair, Ballybay Road, Carrickmacross, Co. Monaghan",4
+516,300000," 132 Kilworth Road, Drimnagh, Dublin 12",3
+517,360000," 3 St Edmunds Park, Lucan, Dublin",3
+518,350000," 90 Drumfinn Road, Ballyfermot,   Dublin 10",2
+519,375000," 45 Calderwood Drive, Donnybrook,, Douglas, Cork",4
+520,275000," 54 Castlewood, Little Island, Cork",4
+521,1695000," Dun A Rí,1 Rathmichael Hill,Rathmichael Road,Rathmichael,Co Dublin",5
+522,250000," Eagle House, Main Street, Hacketstown, Carlow",4
+523,275000," Donegal Road, Ballybofey, Donegal",5
+524,945000," 'Woodbine Lodge', Woodbine Road, Booterstown, County Dublin",3
+525,645000," 11 Acorn Road, Dundrum, Dublin 16",3
+526,425000," 8 Temple Court, Palatine Square, Stoneybatter, Dublin 7",2
+527,515000," Ballintine , Kilmeage, Kildare",5
+528,150000," Main Street, Castleconnell, Co. Limerick",4
+529,395000," 75 Moulden Bridge,Ratoath,Co Meath,A85 N935",4
+530,200000," 1 Raiskeen Place, Clonmellon, Co Westmeath",3
+531,139000," 52 An Duiche,Tipperary,Co. Tipperary,E34 C568",3
+532,245000," 56 Main Street, Applewood Village, Swords, Dublin",2
+533,285000," 23 Chapel Avenue, Balbriggan, County Dublin",4
+534,325000," 4 Cul Ronain Park, Ballivor, Meath",4
+535,382500," Greenbrook, Brooklane, Rush, Co. Dublin, Rush, County Dublin",3
+536,275000," 7 Deerpark Way, Kiltipper, Tallaght, Dublin 24",3
+537,360000," 71 Castle Park, Clondalkin, Dublin 22",3
+538,320000," 6 Castle Park, Piercestown, Wexford",4
+539,660000," ""Glencar"" 36 Weston Road, Churchtown, Dublin 14",3
+540,895000," 37 Cherrygarth, Mount Merrion, Co. Dublin",3
+541,695000," 76 Mount Albany, Blackrock, County Dublin",3
+542,850000," 17 The Rise, Barnhill Road, Dalkey, Co. Dublin",4
+543,799000," 22 Hollywood Drive, Goatstown, Dublin 14",3
+544,1400000," 102 Upper Leeson Street, Donnybrook, Dublin 4",3
+545,385000," 41 Red Arches Park, Baldoyle, Dublin 13",3
+546,335000," 2 Tara Hill Crescent, Rathfarnham, Dublin 14",3
+547,285000," 182 Kildare Road, Crumlin, Dublin 12",2
+548,335000," 16 McKee Road, Finglas, Dublin 11",3
+549,650000," Carrick, Edenderry, Offaly",5
+550,245000," 15 Corduff Way, Blanchardstown, Dublin 15, D15 YP5N",3
+551,245000," 121 Parkview, Verdemont, Blanchardstown, Dublin 15",2
+552,1475000," 1 Montclare Claremont Road, Killiney, County Dublin",5
+553,395000," 136 Oliver Plunkett Avenue, Irishtown, Dublin 4",2
+555,125000," Loughview Curnalee, Curraghboy, Roscommon",2
+556,175000," 33 Killarney Road, Castleisland, Kerry",3
+557,965000," 4 Bedroom Homes,Trimbleston,Goatstown Road,Dublin 14, Goatstown, Dublin",4
+558,3000000," 4 Raglan Road, Ballsbridge,   Dublin 4",4
+559,1950000," 7 Glenair Manor, Delgany, Wicklow",5
+560,550000," 10 Goose Green Court, Drumcondra, Dublin 9",3
+561,1750000," 7 Eaton Place, Monkstown, County Dublin",4
+562,250000," Na Coilte, Kilmuckridge, Wexford",3
+563,400000," 56 West Road, East Wall, Dublin 3",2
+564,415000," Hyde Court, Park Road, Rush, County Dublin",4
+565,290000," Type A1, Dromdiah Park, Killeagh, Midleton, Cork",3
+566,650000," 210 Ashley Rise, Portmarnock, County Dublin",4
+567,245000," Tonacoolen, Headford, Galway",3
+568,40000," Glanduff,Attymachugh,Foxford,Co Mayo,F26 DE61",3
+569,285000," 50 Poplar Drive,Carraig an Aird,Six Cross Roads,Waterford,X91 V5DV",4
+570,109000," 23 (324) The Lodges,Ballykisteen,Co. Tipperary,E34 N564",2
+571,375000," 17 Ormond Way,Swords,Co Dublin,K67 T0A6",3
+572,230000," 86 Drominbeg,Rhebogue,Limerick,V94 W4CY",3
+573,460000," 204 Charlesland Park,Greystones,Co Wicklow,A63EC43",3
+574,300000," 22 Newhaven,Ardamine,Co. Wexford,Y25 W657",4
+575,395000," 16 The Park, Melrose Park, Kinsealy, Swords, County Dublin",3
+576,350000," 21 Supple Park,Dunshaughlin,Co Meath,A85 R791",3
+577,360000," 18 Supple Park,Dunshaughlin,Co Meath,A85 H282",3
+578,695000," Casablanca, Summerhill Road, Dunboyne, Meath",4
+579,450000," 75 Shanard Road, Santry, Dublin 9",3
+580,275000," 203 Castlecurragh Vale,Mulhuddart,Dublin 15,D15 A2C6",3
+581,370000," Hyde Court, Park Road, Rush, County Dublin",3
+582,525000," 22 Carriglea Downs, Firhouse, Dublin 24",3
+583,295000," The Blue House, Cooragurteen, Ballydehob,   West Cork",2
+584,285000," 38 Cois Na Mona, Coill Dubh, Naas, Co Kildare",3
+585,378500," Knockendrane, Garryhill, Co. Carlow",4
+586,160000," 60 O'Molloy Street, Tullamore, Co. Offaly",3
+587,260000," Duntourin, Arden Road, Tullamore, Co. Offaly",3
+588,825000," 47 Leopardstown Gardens, Blackrock, Co. Dublin",5
+589,1250000," 22 Eglinton Park, Off Eglinton Road, Donnybrook, Dublin 4",4
+590,320000," 24 The Belfry, Kilbarrack Road, Dublin 5, Dublin",2
+591,300000," 90 Avondale Drive,Trim,Co Meath,C15 AY22",3
+592,175000," 8 Hillview Close, New Ross, Wexford",3
+593,295000," Kilcully, Ballyjamesduff, Cavan",4
+594,349500," Drumheel , Virginia, Cavan",5
+595,925000," 7 & 7A Serpentine Road,Sandymount,Dublin 4,D04 HK22",4
+596,1050000," 28 Kenilworth Road,Rathgar,Dublin 6,D06 W2Y2",8
+597,395000," 10 Castlegrange Dale, Castaheany, Clonee, Dublin 15",4
+598,295000," 10 Hyacinth Street, North Strand, Dublin 3",1
+599,225000," 49 The Moorings, Skibbereen,   West Cork",3
+600,2500000," Cambridge House, 15 Cambridge Road, Rathmines, Dublin 6",5
+601,275000," 101 Eallagh Headford Co Galway, Headford, Galway",4
+602,285000," 62 Old Balreask Woods,Navan,Co Meath,C15 V0PA",3
+603,795000," 15 Kincora Drive, Clontarf, Dublin 3",5
+604,175000," 78 Barrettstown Lawns,Roseberry,Newbridge,Co. Kildare,W12 YK77",3
+605,1300000," 2 Grange Manor Road, Rathfarnham, Dublin 16",4
+606,350000," 27 South Bay, Rosslare Strand, Co. Wexford",4
+607,355000," 2 Bruach na hAbhann,Western Road,Clonakilty,Co Cork,P85 CK27",4
+608,230000," Hillview, Oldtown, Errill, Laois",3
+609,500000," 23 Boycetown Court,Kilcock,Co. Kildare,W23 R6N4",4
+610,695000," 49 Charleville Close, Rathmines, Dublin 6",2
+611,385000," Burnchurch, Killenaule, Co. Tipperary",3
+612,495000," 330 Nutgrove Avenue, Churchtown, Dublin 14",3
+613,895000," 1 Strand Mews, Lea Road, Sandymount, Dublin 4",3
+614,240000," 19 Hawthorns,Kinnegad,Co. Westmeath,N91 X778",3
+615,385000," New Haven 40 Clashduv Estate, Glasheen, Cork City",5
+616,3950000," Rosebawn,Railway Road,Gorey,Co. Wexford,Y25 YE04",4
+617,980000," 15 Emerald Cottages, Ballsbridge, Dublin 4",3
+618,595000," 73 Ardmore Park, Bray, Co. Wicklow",4
+619,150000," 16 Spa Terrace, Mallow, Co. Cork",3
+620,135000," 1 Egmont Court, Kanturk, Co. Cork",3
+621,495000," 7 The Drive, Ocean Links, Strandhill, Sligo",4
+622,420000," 1 The Pines, Ballinakill Downs, Waterford City, Co. Waterford",4
+623,325000," 8 The Mall, Sligo City, Sligo",4
+624,625000," Rose Cottage, 10 Rochestown Ave, Dun Laoghaire, Co. Dublin",3
+625,525000," Footprints, Lower Killeens, Killeens, Cork",4
+626,270000," Monaco House, New Road, Ennis, Clare",5
+627,395000," Kingstwon, Kingston, Galway",3
+628,795000," 164 Lower Kimmage Road, Harold's Cross, Dublin 6W",3
+629,215000," 19 Wood Green, Dromahair, Leitrim",4
+630,315000," 25 Liffey Court, Liffey Valley Park, Lucan, Dublin",3
+631,950000," 12 Heytesbury Street, Portobello, Dublin 8",5
+632,215000," 23 Wood Green, Forest Park, Dromahair, Leitrim",5
+633,3250000," Azalea, 139 Stillorgan Road, Donnybrook, Dublin 4",5
+634,525000," Rackenstown,Dunshaughlin,Co Meath,A85 W088",4
+635,220000," 127 High Meadows, Gouldavoher, Raheen, Limerick City",3
+636,199000," 8 Wood Green, Forest Park, Dromahair, Leitrim",4
+637,215000," 26 Wood Green, Forest Park, Dromahair, Leitrim",4
+638,295000," No. 4 Portside, Rosslare, Wexford",4
+639,1650000," Hilltown Cottage, Tacumshane, Wexford",3
+641,210000," 9 St Mary's Road, Dundalk, Co. Louth",3
+642,345000," 21 Maple Lawns,Oldtown Demesne,Naas,Co. Kildare,WP1 P20V",3
+643,350000," 21 Fairyhill, Bray, Wicklow",3
+644,245000," 42 Westpark, Blessington, Wicklow",2
+645,465000," Barony Grove,Killinagh Upper,Carbury,Nr. Allenwood,Co Kildare.",4
+646,250000," 16 St Marks Crescent, Dublin 22, Clondalkin",3
+647,645000," 55 The Avenue, Scholarstown Wood, Rathfarnham, Dublin 14",4
+648,600000," 60 Kings Channel,, Waterford City, Waterford",4
+649,219000," 86 Ballyfermot Drive, Ballyfermot, Dublin 10",2
+650,395000," Russellstown New, Clonmel, Kilmanahan, Co. Waterford",4
+651,217500," 55 The Close, Drummin Village, Nenagh, Tipperary",4
+652,108000," 7 Carrowkibbock Lower, Ballycastle, Mayo",3
+653,240000," 15 North Street, Skibbereen, Cork",2
+654,285000," 18 Silverstream Park, Stamullen, Meath",3
+655,450000," 25 Ashington Dale, Navan Road, Dublin",3
+656,278000," Ballyvadlea, Drangan, Tipperary",5
+657,274950," 2 Tolka Valley View, Finglas, Dublin 11",3
+658,574950," 22 Cedarwood Avenue, Glasnevin,   Dublin 11",4
+659,360000," 14, Tibradden Grove, Greenpark, Walkinstown, Dublin 12",3
+660,140000," Dun Bué­ 14 Caheronaun Park, Loughrea, Galway",4
+661,210000," Upper Ferefad, Longford, Longford",5
+662,325000," 53 Lioscian, Rathbeale Road, Swords,   County Dublin",3
+663,350000," 37 Delhurst Mews, Ongar,   Dublin 15",4
+664,1450000," Ard Mor, 31 Granville Park, Blackrock, Co. Dublin",4
+665,875000," Green Ivies , Howth, Dublin",4
+666,335000," 106 Mangerton Road, Drimnagh,   Dublin 12",3
+667,405000," Kilberry, Navan, Meath",4
+668,410000," 10 Temple Woods, Greenhills Road, Tallaght, Dublin 24",3
+669,359000," 5 Elder Heath Meadow, Kiltipper Road, Dublin 24, Dublin",3
+670,400000," 75 The Wavering, Blainroe, Wicklow",4
+671,325000," 12 Courtown Park, Kilcock, Co. Kildare",4
+672,525000," 18 Castlebrook, Dundrum, Dublin 16",3
+673,230000," 3 Millfield Manor, Newbridge, Kildare",3
+674,345000," 48 Aylmer Park, Naas, Co Kildare",3
+675,495000," 49 Burnell Park Avenue,Castleknock,Dublin 15,D15 E62C",3
+676,210000," 30 Saint Bridgets Terrace, Prospect Hill, Co. Galway",3
+677,355000," 10 Ashburton Hill,Montenotte,Cork,T23 X76N",3
+678,525000," 63 Straffan Gate, Straffan, Co Kildare",4
+679,650000," Residential House and c 36.5 Acres @ Loughview Curnalee Athlone, Curraghboy, Roscommon",4
+680,625000," Littlefields, Swords, Co. Dublin",4
+681,920000," Castlefield Manor, Malahide, County Dublin",5
+682,200000," Newtown,Kilkee,Co. Clare,V15 FX49",4
+683,495000," 1 Muckross Crescent, Perrystown, Dublin 12",3
+684,895000," 9 Farmleigh Avenue,Blackrock,Co. Dublin,A94 HF82",4
+685,775000," 53 Cedarmount Road,Mount Merrion,Co Dublin,A94 E8C5",3
+686,1200000," Aeolus, Kinsealy Lane, Malahide, Dublin, K36CX36",4
+687,215000," 12 Plunkett Avenue, Mervue, Galway",1
+688,275000," 50 Bunratty Road, Coolock, Dublin",3
+689,790000," Avondoon, 49 Yellow Walls Road, Malahide, Dublin",3
+690,325000," 37 Wicklow Heights, Wicklow Town, Wicklow",3
+691,249000," Miskawn Glebe, Aughnasheelin, Co Leitrim N41 K728",4
+692,1500000," Simla Lodge, Strandville Avenue East, Clontarf, Dublin 3",5
+693,195000," 92 Mulkear View, Newport, Co. Tipperary",3
+694,265000," 74 Brackinrainey Manor, Longwood, Meath",4
+695,640000," 13 Diswellstown Grove, Castleknock, Dublin 15",3
+696,275000," 44 Ounavarra Park, Ballycanew, Gorey, Wexford",4
+697,595000," 55 Carrigeenlea, Tramore, Waterford",5
+698,120000," 55 Carrigbawn, Bunclody, Wexford",4
+699,189000," Griffins Cross,Rockstown, Grange, Limerick",3
+700,200000," 14 Blaeberry Walk, Castleblayney, Monaghan",3
+701,145000," 19 Henry St, Waterford City, Waterford",2
+702,165000," No. 5 Stracomer View, finner road, Bundoran, Donegal",3
+703,360000," 3 The Park, Newtown Manor, Kill, Kildare",3
+704,350000," 7 Pembroke Cottages, Main Street, Dundrum, Dublin 14",2
+705,175000," Tullytreane,Crosskeys,Co. Cavan,H12 C446",3
+706,250000," 23 Liffey Hall, Liffey Valley Park, Lucan, Co. Dublin",2
+707,450000," 61 CHURCH AVENUE, Drumcondra, Dublin 9",2
+708,380000," 36 Glencairn, Caherslee, Tralee, Kerry",4
+709,395000," Bishopswood, Portarlington, Laois, R32R6K6",4
+710,377500," Hyde Court, Park Road, Rush, County Dublin",3
+711,545000," 5 Belarmine Close, Stepaside, Dublin 18",4
+712,580000," 6 Woodgrove, Forest Road, Carrigaline, Cork",4
+713,315000," 7 Broombridge Road, Cabra, Dublin 7",2
+714,289000," 22 Dunard Drive, Navan Road, Dublin 7",3
+715,315000," 56 The Green,Petitswood Manor, Mullingar, Westmeath",4
+716,420000," Tir Na Darach, Drummerrill, Inniskeen, Monaghan",4
+717,4750000," Tresillian House, Brighton Road, Foxrock, Dublin 18",5
+718,265000," 10 The Court, Rathdale, Enfield, Co Meath",4
+719,399950," Sylvan House, Roveagh, Kilcolgan, Galway",4
+720,225000," 43 An Choill Rua, Paulstown, Kilkenny",3
+721,6800000," Hatherton,Richmond Avenue South,Dartry,Dublin 6,D06 V1N1",6
+722,425000," 117 Mulvey Park, Dundrum, Dublin 14",3
+723,425000," 53 Kilheale Drive ""The Birches"", Kill, Kildare",3
+724,315000," Ashley House, Ballyfarrell, Blueball, Tullamore, Offaly",5
+725,375000," Corner Stones,Clooneen,Dromore West,Easkey,Co. Sligo",3
+726,385000," Sunnybank, Ballytegan Park, Gorey, Wexford",4
+727,350000," Cnocgloss, 15 Russell Close, Ballykeeffe, Dooradoyle, Limerick",4
+728,199000," Hillside House, Abbey Road, Ferrybank, Waterford",5
+729,298000," 23 Ashgrove Drive,Naas,Co. Kildare,W91 VPX8",3
+730,390000," 35 Kickham Road, Kilmainham, Dublin 8",3
+731,165000," No. 19 Carbry Coast, Tullaghan, Leitrim",3
+732,375000," 58 Harty Place, off Clanbrassil Street, South Circular Road, Dublin 8",2
+733,695000," 93 Shandon Park, Phibsboro, Dublin 7",3
+734,280000," Coolteige, Bree, Enniscorthy, Co. Wexford, Enniscorthy, Wexford",4
+735,210000," 35 The Ferns,Scotstown,Co. Monaghan,H18HF67",4
+736,650000," 7 Church Street , Howth, County Dublin",2
+737,625000," 93 Barton Drive, Rathfarnham, Dublin 14",4
+738,595000," 636 Whitechurch Road, Rathfarnham, Dublin 16",3
+739,325000," 63 Latchford Square, Castaheany, Clonee, Dublin 15",3
+740,410000," 43 St. Columba's Road, Walkinstown, Dublin 12, D12 H9Y7",3
+741,450000," 1A Montenotte Park, Montenotte, Cork",3
+742,185000," 21 Goldsmith's Avenue, Richmond Hill, Cork City, Cork",2
+743,475000," 2 Camberley Elms , Churchtown, Dublin 14",3
+744,635000," Bay Meadows,Loughshinny,Skerries,Co Dublin,K34 D286",5
+745,420000," 59 Leinster Avenue, North Strand, Dublin 3",3
+746,209950," 71 Chestnut Drive, Mullingar, Westmeath",3
+747,465000," 155 The Links, Donabate,   County Dublin",3
+748,1475000," Highfield Lodge, 38 Highfield Road, Rathgar, Dublin 6",4
+749,535000," ""Sandhill House"", Seaview, Kilmore Village, Wexford",6
+750,250000," Turloughmartin, Cummer, Tuam, Galway",3
+751,275000,"  52 Ardkeale, Mount Oval Village, Rochestown, Cork",2
+752,289950," 1 Maple Grove, Johnstown Wood, Navan, Meath",4
+753,330000," 10 Thomastown Crescent, Sallynoggin, Co. Dublin",3
+754,750000," Crockaunadreenagh, Redgap, Rathcoole, County Dublin",6
+755,159000," Deslyn, New Road, Bandon, West Cork",2
+756,160000," Carrowkeale, Newport, Co. Tipperary",2
+757,395000," 33 Dean Swift Road, Glasnevin, Dublin 11",3
+758,475000," 32 Idrone Park, Knocklyon, Dublin 16",2
+759,75000," No. 1 Chapel Lane, Ballybricken, Waterford City, Waterford",2
+760,575000," 241A Pottery Road, Cabinteely, Dublin",3
+761,675000," 3 Balglass Road, Howth,   County Dublin",3
+762,390000," Kilcotty, Enniscorthy, Co. Wexford , Enniscorthy, Wexford",4
+763,395000," 15 Blackcastle Demesne, Navan, Co. Meath",4
+764,195000," 29 Oakwood, Gorey, Wexford",2
+765,375000," 53 Russell Ave East, East Wall, Dublin 3",3
+766,410000," Reisk, Ballincurrig, Midleton, East Cork",4
+767,390000," 104A Elgin Heights, Killarney Road, Bray, Wicklow",3
+768,495000," 57 Millmount Avenue, Drumcondra, Dublin 9",2
+769,575000," 54 Knocklyon Green, Knocklyon, Dublin 16",3
+770,2850000," Headford Cottage,11 Avoca Avenue,Blackrock,Co Dublin,A94 Y2E7",5
+771,2650000," Glenart,Grove Avenue,Blackrock,Co. Dublin,A94 KV04",5
+772,775000," The Lodge, Ballygannon, Greystones, Kilcoole, Wicklow",4
+773,595000," Mount Ruby, Navigation Road, Mallow, Cork",6
+774,120000," 3 na Hinseain, Manorcunningham, Donegal",4
+775,395000," 15 Earl Street South, South City Centre, Dublin 8",3
+776,130000," Ballybrennan,Bree, Enniscorthy, Co. Wexford , Enniscorthy, Wexford",2
+777,355000," 6 Oak Glade,Naas,Co Kildare,W91T6CN",3
+778,350000," 11 Dun na Riogh Glen,Naas,Co Kildare,W91K244",3
+779,155000," 146 Castlepark, Ballybane, Co. Galway",3
+780,3500000," Killora, Craughwell, Co. Galway",10
+781,265000," St Annes, 16 Glenview Gardens, Farranshone, Ennis Road, Limerick",3
+782,159000," Griffins Cross Rockstown, Grange, Limerick",3
+783,270000," 5 Castlewood, Clonsilla, Dublin 15",3
+784,355000," 39 The Lawn, Westgrove, Douglas, Cork",3
+785,225000," 27 Sarsfields Terrace, Old Youghal Road, Cork City, Cork",2
+786,320000," 16 Great Southern , Newbridge, Kildare",3
+787,375000," 179 Saint Peter's Road, Walkinstown, Dublin 12",3
+788,135000," 130 Shanabooly, Ballynanty, Limerick",3
+789,445000," 26 Millbrook Village, Milltown,   Dublin 6",2
+790,325000," 11 Rialto Street, Rialto, Dublin 8",2
+791,575000," 22 Belarmine Close, Stepaside, Dublin 18",4
+792,375000," 46 Cloon Lara, Mullingar, Westmeath",4
+793,535000," 10 Sandyford Hall Close,Sandyford,Dublin 18,D18 N9V2",3
+794,190000," 5 Roman's Walk, Dominick Street, Cork City, Cork",2
+795,515000," Corballis, Donore, Meath",4
+796,489950," 44 Prospect View, Prospect Manor, Rathfarnham, Dublin 16",4
+797,1500000," Treetops, Claremont Road, Howth,   County Dublin",5
+798,675000," Irishtown, Gormanston, Meath",5
+799,385000," 12 Bayside Crescent, Sutton,   Dublin 13",2
+800,995000," 14 Orby Park, The Gallops, Leopardstown, Dublin 18",5
+801,475000," 204 The Oaks,Newbridge,Co. Kildare,W12 NT95",5
+802,395000," 18 Drynam Grove,Drynam Hall,Co. Dublin,K67 HT27",4
+803,340000," 13 Blossomhill,Broomfield,Midleton,Co Cork,P25 N5WO",3
+804,265000," 150 Glasanaon Road,Finglas East,Dublin 11,D11X7F3",2
+805,795000," 98 Foxrock Park,Foxrock,Dublin 18,D18W5N8",4
+806,375000," 51 Glentow Road, Whitehall, Dublin 9",2
+807,395000," 12 Shanowen Park, Santry, Dublin 9",3
+808,1200000," The Bower,Killashee,Naas,Co.Kildare,W91 F290",9
+809,175000," Castlemartin,Kells,Co Meath,A82C8X2",3
+810,450000," 54 St Patrick's Road,Greenhills,Walkinstown,Dublin 12,D12 F2H1",3
+811,595000," 75 Idrone Park,Knocklyon,Dublin 16,D16 E7T1",4
+812,1100000," 186 Butterfield Avenue,Rathfarnham,Dublin 14,D14 RT92",3
+813,280000," 33 Holywell Court,Swords,Co. Dublin,K67 V526",2
+814,285000," 15 Tymonville Lawn, D24, Tallaght, Dublin 24",3
+815,445000," 43 Sutton Grove,Bayside,Sutton,Dublin 13,D13 P8C5",3
+816,950000," 13 Castlewood Avenue,Rathmines,Dublin 6,D06 Y462",5
+817,925000," Silina, 5 Bissetts Strand, Malahide, Co. Dublin",5
+818,1975000," 1 Cowper Road,Rathmines,Dublin 6,D06 X3Y1",4
+819,135000," Cloninaha,Ballinderry,Nenagh,E45WY61",2
+820,340000," 7 Dun an Samhradh,Kentstown,Co. Meath,C15 V5R9",4
+821,247500," 23 Monread Heights,Naas,Co. Kildare,W91 VWX2",2
+822,1500000," 7 Broomfield,Malahide,Co Dublin,K36 E330",5
+823,245000," 57 Oakleigh Wood,Dooradoyle,V94 H526",3
+824,285000," Damma Upper,Ballycallan,Co Kilkenny,R95 E1T1",3
+825,335000," 13 Melitta Park,Kildare Town,Co. Kildare,R51 HN77",3
+826,440000," 77 Redford Park,Greystones,Co Wicklow,A63 PT67",3
+827,295000," 15 Greenpark Road, Bray, Co. Wicklow",3
+828,320000," Coreally,Ballytarsna,Oulart,Enniscorthy,Co. Wexford",4
+829,1540000," Dún Breg, 118 Georgian Village, Castleknock, Dublin 15",4
+830,1295000," 9a St John's Park,Dun Laoghaire,Co Dublin,A96 XR97",4
+831,595000," 2 Kilgrovan Estate,Clonea Beach,Dungarvan,Co Waterford,X35AH30",4
+832,139950," Dublin Road, Silvermines, Nenagh, Co. Tipperary",3
+833,65000," Cappantymore, Meelick, Co. Clare, Limerick City, Co. Limerick",2
+834,190000," Cappantymore, Meelick, Co. Clare",5
+835,149000," Ballygawley,Co. Sligo,F91WY45",2
+836,400000," Ballykeane, Geashill, Offaly",5
+837,385000," 42 Evanwood, Golf Links Road, Castletroy, Limerick",4
+838,6950000," ""The Laurels"", Baybush, Straffan, Kildare",3
+839,784950," Ballybranigan, Ballymahon, Longford",8
+840,420000," 55 Carrigeendaniel, Caherslee, Tralee, Kerry",4
+841,500000," Phelans Cottage, Kilkeany, Ballymacarbry, Co. Waterford",3
+842,230000," Rafiki House, Clonroche, Enniscorthy, Co. Wexford , Enniscorthy, Wexford",3
+843,430000," 4 Beaumont Crescent, Beaumont, Dublin 9",4
+844,349950," 11 Blackcastle Demesne, Navan, Meath",4
+845,295000," 32 Shelmalier Road Dublin 3, East Wall, Dublin 3",3
+846,385000," Knightsfield, Turnapin Lane, Santry, Dublin 9",2
+847,348000," Saint Martins, Old Monivea Road, Galway, Briarhill, Co. Galway",4
+848,250000," Fairfield House, The Still, Enniscorthy, Co. Wexford , Enniscorthy, Wexford",4
+849,545000," 33 Susanville Road, Drumcondra, Dublin 3",3
+850,195000," 19 Trinity Street, Drogheda, Louth",3
+851,235000," 10 Beech Drive, Carrickmacross, Monaghan",3
+852,435000," 52 St. Patrick's Villas, Ringsend, Dublin 4",2
+853,745000," 7 Grattan Street, South City Centre, Dublin 2",2
+854,345000," 174 Larkhill Road, Dublin 9, Dublin",2
+855,285000," 1 Clonmore, Kilteragh, Dooradoyle, Limerick",4
+856,169000," Athea Lower,Athea,Co. Limerick,V94 HC6F",3
+857,299000," 1 Lohunda Grove, Clonsilla, Dublin 15",3
+858,1700000," Vinan House, 47 Villiers Road , Rathgar, Dublin 6",5
+859,700000," Property at Drumcor, Loughduff, Ballinagh, Cavan",4
+860,375000," Mountain West, Oranmore, Galway",4
+861,330000," 56 St Brendan's Avenue, Artane, Dublin 5",3
+862,290000," 52 The Close, Curragh Grange, Newbridge, Kildare",3
+863,250000," 1 Abbey Court,Killala Road,Ballina,Co Mayo,F26 Y8H1",5
+864,1200000," 76 Tritonville Road, Sandymount, Dublin 4",3
+865,895000," 5 The Beeches, Dunstaffnage Hall, Stillorgan, Dublin",3
+866,799000," 54 North Avenue, Mount Merrion,   County Dublin",3
+867,374000," 10 Glenview, Downshire Park, Blessington, Wicklow",4
+868,135000," 8 The Lodges, Cornadarragh, Belturbet, Co. Cavan",3
+869,394950," 30 Glasanoaon Road, Glasnevin, Dublin 11",3
+870,374950," 4 Westway Rise, Blanchardstown, Dublin 15",7
+871,274950," 34 Ballentree Crescent, Tyrrelstown, Dublin 15",3
+872,495000," Boolard,Claddaghduff,Co.Galway,H71NR25",5
+873,330000," Doncla House, Lackyle, Ardnacrusha, Clare",3
+874,600000," 138 Ardmore Park,Bray,Wicklow,A98 WF20",4
+875,615000," 7 Rectory Way,Herbert Road,Bray,Co Wicklow,A98 VP70",4
+876,185000," 9 Kildalton Walk, Banagher Court, Piltown, Co. Kilkenny",3
+877,328000," 66 Bun A Chnoic, Rahoon, Galway",4
+878,199000," Eiscir End Road, Tullamore, Offaly",4
+879,205000," 9 Dunan, Thomastown, Kilkenny",3
+880,419950," 20 Moreen Close, Sandyford, Dublin 16",3
+881,545000," 23 Sandyford Hall Grove, Sandyford, Dublin 18",3
+882,450000," Palm Court, Revington Park, North Circular Road, Limerick City, Limerick",5
+883,294950,Toorcommons,4
+884,310000," 3 The Woodlands,Mount Falcon,Ballina,Co Mayo,F26 V6R9",3
+885,845000," 20 Mount Tallant Avenue,Terenure,Dublin 6W,D6W H903",5
+886,895000," 8 Casimir Road,Harold's Cross,Dublin 6W,D6WK529",4
+887,895000," 50 Fosters Avenue,Mount Merrion,Co. Dublin,A94 C960",4
+888,290000," 6 Kilmahuddrick Court, Clondalkin, Dublin 22",3
+889,2250000," 5 Victoria Lane,Off Victoria Road,Rathgar,Dublin 6,D06 FD77",5
+890,575000," 13 Wainsfort Avenue,Terenure,Dublin 6w,D6W X974",2
+891,340000," 6 Redwood Rise, Kilnamanagh, Dublin 24",3
+892,430000," 11 Lambourne Park, Donabate, Dublin",3
+893,550000," Kiltennel, Gorey, Wexford",5
+894,298000," 126 Stannaway Road, Crumlin, Dublin 12",2
+895,375000," 4 Hayworth Drive, Ongar Park, Clonsilla, Dublin 15",4
+896,260000," Hill View, Sillogue, Monasterboice, Louth",2
+897,575000," 11 Kingston Grove, Ballinteer, Dublin 16",4
+898,240000," 58 Clifden Road, Ballyfermot, Dublin 10",3
+899,350000," 18 St. Thomas Road, South Circular Road, Dublin 8",3
+900,169500," 21 Fairgreen,Borrisokane,Co. Tipperary",3
+901,2350000," 8 Montpelier Parade, Monkstown Road, Monkstown, Co. Dublin",5
+902,1250000," Ashlawn, Wynberg Park, Blackrock, Co. Dublin",4
+903,895000," 10 Glen Garth, The Park, Cabinteely, Dublin 18",4
+904,119000," 27 The Stables,Tullaghan,Co. Leitrim,F91NC04",2
+905,495000," 35 Patrician Villas, Stillorgan, Co. Dublin",3
+906,945000," 60 St Alban's Park,Sandymount,Dublin 4,D04 TY49",3
+908,395000," 5 Avondale Road,Phibsborough,Dublin 7,D07 VR04",2
+909,325000," 19 Glencloy Road, Larkhill, Whitehall, Dublin 9",3
+910,395000," 110 Glasnevin Downs, Glasnevin, Dublin 11",3
+911,750000," 7 St Brigid's Road Upper, D09, Drumcondra, Dublin 9",4
+912,1300000," 302A Howth Road, Killester, Dublin 5, D05 YC84",5
+913,295000," 14 Lurgan Street, Smithfield, Dublin 7",2
+914,295000," 10 Linenhall Street, Smithfield, Dublin 7",2
+915,650000," 27 Corbawn Drive, Shankill,   Dublin 18",4
+916,1150000," 2 The Willows, Orwell Road, Rathgar, Dublin 6",4
+917,210000," 9 An Seanline, Kerry Street, Fethard, Tipperary",3
+918,495000," Rockcliffe Village, Blackrock, Co. Cork",5
+919,265000," 16 Coachyard Manor, Enfield, Meath",3
+920,2000000," The Terrace,Foxrock Village,Foxrock,Dublin 18",4
+921,370000," 9 Mountain View Drive, Bray, Wicklow",3
+922,179000," "" Sabrinas"" 24 Beachside Downs, Gorey, Wexford",3
+923,495000," 76 Palmerstown Drive, Palmerstown, Dublin 20",3
+924,225000," Aherla Beg,Aherla,Cork,CKK210188,P31 TE24",3
+925,1950000," Kilkerry,Dalkey Avenue.,Dalkey,Co Dublin,A96 K523",4
+926,475000," 4 Mayfield Gorey, Gorey, Wexford",4
+927,650000," 6 Foyle Road, Fairview, Dublin 3, D03A7K4",3
+928,255000," 44 North Glebe, Kildare Town, Co. Kildare",3
+929,380000," Ballynameagh, Castlepollard, Westmeath",4
+930,265000," No.13 Lissanalta Drive, Dooradoyle, Limerick City",4
+931,650000," 71 Roebuck Downs, Clonskeagh, Dublin 14",4
+932,449950," 5 Temple Manor Close , Greenhills, Dublin 12",3
+933,379950," 12 Hansfield, Clonee, Dublin 15",3
+934,435000," 72 Mulvey Park, Dundrum, Dublin 14",2
+935,250000," Formerly Granny's Attic Antiques, Riverstown, Birr, Offaly",3
+936,250000," 10 Curragh Finn, Kildare Town, Kildare",3
+937,1950000," Hyde Park House, Middle Glanmire Road, Montenotte, Cork City, Cork",6
+938,385000," Johns Terrace, Birr, Offaly",4
+939,180000," 46 Lios Na Ri , Aisling Geal, Smith's Road, Charleville, Cork",3
+940,215000," Hophill Vale, Church Road, Tullamore, Offaly",3
+941,395000," Urbalshinny, Milford, Donegal",7
+942,495000," 9, Brighton Avenue,, Clontarf, Dublin 3",2
+943,265000," 9 Maple Road, Fota Rock, Carrigtwohill, Cork",3
+944,65000," Coolgreany, Gorey, Wexford",3
+945,395000," 89 Grace Park Heights, Drumcondra, Dublin 9",3
+946,320000," 65 Rafter's Road, Drimnagh, Dublin 12",2
+947,219500," 10 Highfield Manor, Graiguecullen, Co. Carlow",3
+948,265000," 39 Ballyfermot Drive, Ballyfermot, Dublin 10",2
+949,249950," 8 St Killian's Park, Clondalkin, Dublin 22",3
+950,335000," 12 Earlsfort Meadow,Lucan,Co Dublin,K78 TC93",3
+951,190000," 17 Riverchapel Crescent, Riverchapel, Gorey, Wexford",2
+952,137500," 28 Chambersland Close , New Ross, Wexford",2
+953,79000," The Haven, Rosbercon, New Ross, Wexford",2
+954,395000," 3 Haydens Park Walk,Lucan,Co. Dublin,K78 VP30",3
+955,485000," 1 The Glebe, Lucan, Co. Dublin",5
+956,180000," 13 Butterfield Avenue, Old Cork Road, Limerick City, Limerick",3
+957,750000," 8 Rose Gardens, Rosehill, Kilkenny, Kilkenny",5
+958,650000," 13 Highthorn Park, Dun Laoghaire, Co. Dublin",3
+959,130000," Offaly Street, Athy, Kildare",2
+960,380000," 12 Berwick Grove, Swords, County Dublin",3
+961,1150000," 39 Greenfield Road, Mount Merrion, Co. Dublin",4
+962,695000," 1 Library Crescent, Shankill, Dublin 18, Shankill,   Dublin 18",3
+963,310000," 127 Belmayne Park South, Belmayne, Dublin 13",3
+964,330000," 97 Coopers Grange, Old Quarter, Ballincollig, Cork",3
+965,285000," Reabeg, Rearcross, Newport, Co. Tipperary",4
+966,750000," Caislin, Roveagh, Clarinbridge, Co. Galway",5
+967,245000," River Cottage, Aclare, Drumconrath, Meath",2
+968,350000," 5 Hammond Street , Blackpits,   Dublin 8",2
+969,825000," 52 Oakley Road , Ranelagh,   Dublin 6",3
+970,345000," 49 McGoverns Corner, Cork St, South City Centre - D8,   Dublin 8",2
+971,485000," 11 St Patrick Cottages , Rathfarnham, Dublin 14",3
+972,520000," 29 Carriglea, Killenard, Laois",5
+973,4000000," Rathsillagh Upper, Fontstown, Kilcullen, Kildare",3
+974,695000," 25 St Brigid's Road Lower, Drumcondra, Dublin 9",4
+975,429950," 68 St Mary's Park, Walkinstown, Dublin 12",3
+976,275000," 102 Carrig Court, Citywest, Dublin 24",2
+977,2640000," 44 Leeson Park, Ranelagh, Dublin 6",6
+978,595000," 26 White Pines Meadow,Stocking Avenue,Rathfarnham,Dublin 16,D16 E8Y2",4
+979,695000," 18 Seafort Avenue, Sandymount, Dublin 4",2
+980,575000," 53 Richmond Wood, Glanmire, Cork",4
+981,395000," 57 Shanliss Road,Santry,Dublin 9,D09 N622",3
+982,525000," 28a Brunswick Street North,Dublin 7,D07 EHF6",5
+983,290000," 104 Arthur Griffith Park, Lucan, Co. Dublin",3
+984,259000," 1 St Patricks Close, Hospital, Limerick",3
+985,495000," 1 Seaview, Hollybrook Road, Clontarf, Dublin 3",3
+987,200000," 1 Nedd, Doogarry, Ballyconnell, Co. Cavan",4
+988,650000," 49 St Albans Road, South Circular Road, Dublin 8",2
+989,320000," 25 Woodleigh Park, Blessington, Co. Wicklow",3
+990,79000," Chapel St,Swinford,Co Mayo,F12 PY62",3
+991,180000," Fiddown, Piltown, Co. Kilkenny",3
+992,450000," 153 Owen's Avenue, Mountbrown, Kilmainham, Dublin 8",3
+993,375000," 40 Portersgate Heights, Clonsilla, Dublin 15",3
+994,310000," 28 Esker Manor, Lucan, Dublin",3
+995,310000," 13 Foxborough Way, Lucan, Dublin",3
+996,435000," Straney Mor, Rathmolyon, Co. Meath",3
+997,410000," 42 Latchford Green, Castaheany, Clonee, Dublin 15",4
+998,395000," 26 Carrigmore Downs, D24, Citywest, Dublin 24",4
+999,420000," 1 Ashling Green,Earlscourt,Dunmore Road",3
+1000,150000," 45 Killeen Heights,Killeen,Tralee,Co. Kerry,V92 A6D6",2
+1001,550000," 5 Crest Of The Wave Causeway,Magheracar,Bundoran,Co. Donegal,F94PF68",5
+1002,350000," Mountain View,Broadleas Commons, Ballymore Eustace, Kildare",3
+1003,220000," Poulpeasty,Clonroche,Co Wexford,Y21 V0Y5",4
+1004,200000," 5 Millbrook,Milltown,Monaghan,H18HR68",3
+1005,320000," 41 Foxborough Gardens,Lucan,Co. Dublin",3
+1006,360000," Avondale, Mitchel St, Tipperary Town, Tipperary",5
+1007,675000," 1 St Martins Park,Kimmage,Dublin 6w,D6W R208",3
+1008,275000," 2 Arlington Heights,Park Road,Killarney,Co. Kerry,V93F4A3",4
+1009,200000," 12 Shelduck Street, Aston Village, Drogheda, Louth",2
+1010,285000," 17 Ashgrove,Monadreen,Thurles,Co. Tipperary,E41 X8F5",4
+1011,150000," Curraheen,Horse & Jockey,Thurles,Co. Tipperary,E41 R277",3
+1012,150000," 8 Kilcooley Way,Gortnahoe,Thurles,Co. Tipperary,E41 N4X8",3
+1013,248000," 176 Glantann, Golf Links Road, Castletroy, Limerick",3
+1014,350000," 7 Maydenhayes Road, Mornington, Meath",4
+1015,395000," Bishopswood, Portarlington, Monasterevin, Kildare",4
+1016,695000," 42 Clonkeen Drive,Foxrock,Dublin 18,D18 X0T4",4
+1017,525000," 37 Cedar Court, Terenure, Dublin 6W",3
+1018,2750000," Mount Salem, Leopardstown Road, Leopardstown,   Dublin 18",5
+1019,380000," 86 Orlynn Park, Lusk, Dublin",4
+1020,585000," The Old Post Office, Post Office Road,, Lusk,   County Dublin",4
+1021,300000," Carrig View,Raheenavine,Rathdrum,Co. Wicklow,A67XH72",4
+1022,165000," 3 Farranferris Court,Redemption Road,Cork,T23 R1X2",2
+1023,1950000," Hyde Park House,Middle Glanmire Road,Montenotte,Cork,T23 E9D6",6
+1024,259000," 35 Browneshill Wood,Browneshill Road,Carlow,R93 F8Y1",4
+1025,495000," 15 Adelaide Terrace,Kilmainham,Dublin 8,D08 XKP1",3
+1026,280000," Type A, Dromdiah Park, Killeagh, Midleton, Cork",3
+1027,305000," 7 The Heights,Sallins Park,Sallins,Co Kildare,W91 E6F2",3
+1028,190000," 18 Lennonstown Manor, Red Barns Road, Dundalk, Co. Louth",3
+1029,1575000," 141 Tritonville Road,Sandymount,Dublin 4,D04 V304",3
+1030,750000," `Somerville`, Balheary, Swords, Co. Dublin",4
+1031,325000," 132 Bremore Castle,Balbriggan,Co. Dublin",3
+1032,250000," Phepotstown, Co. Meath, Kilcock, Co. Kildare",2
+1033,450000," 54 The Fairways, Castletroy, Co. Limerick",4
+1034,1200000," Ballydavid, Tralee, Co. Kerry",4
+1035,535000," 289 Redford Park, Greystones, Co. Wicklow",3
+1036,155000," Curtiswood, Ballymacarbry, Clonmel, Co. Tipperary",3
+1037,820000," 3 Beechpark Orchard, Beechpark Avenue, Castleknock, Dublin 15",4
+1038,325000," Benroe, Bruckless, Donegal",3
+1039,380000," Montezuma,1 Monkton Row,Wicklow Town,Co Wicklow,A67 K821",3
+1040,375000," ""Landafar"" Grange Mor Park, Grange Road, Rosslare Strand, Wexford",4
+1041,290000," Charleville Road,Tullamore,Co Offaly,R35AE28",3
+1042,549000," Knockeevin,Ballyclerihan,Clonmel,Co Tipperary,E91AW71",5
+1043,139000," 25 Lakeside View, Mountshannon, Clare",3
+1044,1150000," The Moorings,Greenfield Road,Sutton,Dublin 13,D13 XY29",5
+1045,260000," 8 Dun Aras,Shannon,Co Clare,V14 W992",3
+1046,250000," 16 Hermitage, South Fields, Grange Road, Rosslare Strand, Wexford",3
+1047,285000," 5 Kylegrove Place,Bellingham,Portlaoise",3
+1048,499500," Arra,Gortlandroe,Nenagh,Co. Tipperary,E45F827",4
+1049,220000," Ballygown,Castletownroche,Mallow,Co. Cork,P51 Y778",5
+1050,1395000," Arundel, 1 Burrow Road, Sutton,   Dublin 13",5
+1051,345000," Pribbaun, Rosscahil, Galway, Rosscahill, Co. Galway",4
+1052,325000," 5 Allendale, Kilmainham, Kells, Co. Meath",4
+1053,630000," 2 Railway Avenue, Malahide, Co. Dublin",2
+1054,629000," 10 Dooroge Woods, Ballyboughal, Co. Dublin",3
+1055,1500000," 54 Cluain Glas, Thurles, Tipperary",3
+1056,90000," Ballyconnell, Tobinstown, Tullow, Carlow",2
+1057,285000," 12 The Court,Highlands,Drogheda,Co Louth,A92 KF3A",3
+1058,325000," 4 Woodlawn Rise,Santry,Dublin 9,D17 RW02",3
+1059,195000," 130 Gleann Alainn, Tullyallen, Louth",3
+1060,425000," 22 Forest Ridge Crescent, Wilton, Cork, Wilton, Cork",4
+1061,135000," 118 Shanakill Estate, Monavalley, Tralee, Kerry",3
+1062,180000," Main Street, Mullagh, Clare",4
+1063,595000," 26 Ferncarrig Avenue,Sandyford,Dublin 18,D18 C3H0",3
+1064,295000," 194 Ros Caoin, Roscam, Galway City",3
+1065,170000," Corlat, Mullagh, Kells, Co. Meath",3
+1066,330000," 38 Ceol Na Habhann, Caherconlish, Co. Limerick",4
+1067,275000," San Pio, Rathjordan, Caherconlish, Co. Limerick",4
+1068,225000," Lislanahan Road, Kilkee, Clare",5
+1069,320000," 4 Morristown Way, The Paddocks, Cornelscourt, Newbridge, Kildare",3
+1070,560000," Ballymacmague North,Dungarvan,Co Waterford,X35KF20",4
+1071,165000," 7 Derryoak, Ballyconnell, Co. Cavan",3
+1072,595000," Mahgercloone, Station Road, Duleek, Meath",5
+1073,185000," 92 Sliabh Rua,Ballymore Road,Moate,Co. Westmeath",3
+1074,155000," 8 Connolly Place, Waterford City, Waterford",3
+1075,350000," 2 Silvermount Cottages, Strawberry Beds, Dublin 20",2
+1076,405000," 25 Dowth Avenue, Cabra, Dublin 7",3
+1077,35000," Finiskil, Mohill, Co. Leitrim",2
+1078,350000," 8 Castleabbey,Kildalkey Road,Trim,Co Meath,C15F628",4
+1079,365000," 1 Carrigmannon Woods Glynn, Killurin, Wexford",4
+1080,450000," 4 Highfield Grove, Rathgar, Dublin 6",2
+1081,175000," 110 Childers Heights, Ballina, Mayo",3
+1082,315000," 22 Earlsfort Rise, Lucan, Dublin",3
+1083,370000," 359 Crumlin Road, Crumlin, Dublin 12",3
+1084,625000," 34 Drumcondra Road Upper,Drumcondra,Dublin 9,D09 HW56",4
+1085,550000," 20 Killeen Avenue,Malahide,Co Dublin,K36 HY48",3
+1086,575000," Rushworth, Muckross Rd., Killarney, Kerry",4
+1087,495000," 91a Binn Eadair View, Sutton, Dublin 13",3
+1088,499950," 115a Sycamore Road, Glasnevin, Dublin 11",4
+1089,425000," 11 Lower Courtyard, Headfort Demesne, Kells, Meath",3
+1090,195000," No 85 Cluain Dara, Clonard, Wexford Town, Wexford",3
+1091,310000," Knockliscrane, Miltown Malbay, Clare",4
+1092,285000," No. 13 Coolcotts Court, Coolcotts, Wexford Town, Wexford",4
+1093,285000," 11 Delhurst Terrace, Ongar, Dublin 15",3
+1094,425000," 4 Ballynoe Grove, Bray, Co. Wicklow",3
+1095,325000," 3 Shankill View, Seapoint Road, Bray, Co. Wicklow",2
+1096,475000," Clonard Lodge, Killiney Avenue, Killiney, County Dublin",2
+1097,385000," 38 Old Bawn Park, Old Bawn, Tallaght, Dublin 24",3
+1098,525000," 20 Dundela Haven, Glenageary, County Dublin",2
+1099,118500," 3 Glencourt, Griffin Road, Kilrush, Clare",3
+1100,199000," 13 Donomore Crescent, Tallaght, Dublin 24",3
+1101,400000," Killard, Doonbeg, Clare",4
+1102,355000," 18 Foster Terrace, Drumcondra, Dublin 3",2
+1103,325000," Castleredmond, Midleton, Cork",3
+1104,425000," 8 Gort Na Heornan, Ringville, Dungarvan, Co. Waterford",4
+1105,425000," Lynmurray, , Lehenaghmore, Cork City",4
+1106,645000," Laragh Brae,Lagore Road,Ballymore,Dunshaughlin,Co Meath",4
+1107,459950," 58 Bayview Drive, Killiney, County Dublin",3
+1108,199000," Tonregee, Ballaghaderreen, Roscommon",3
+1109,190000," 23 Mount Charles Terrace, Kilkee, Clare",3
+1110,385000," 65 Monaleen Park, Castletroy, Limerick",4
+1111,155000," Breahy, Edgeworthstown, Longford",3
+1112,350000," 54 Dun Emer Avenue, Lusk, Dublin",3
+1113,365000," 19 Primrose Street,Dublin 7,D07 V2W9",2
+1114,325000," Rathcobican, Rhode, Offaly",5
+1115,1300000," Sorrento Road Area , Dalkey, County Dublin",3
+1116,599950," Rackenstown, Dunshaughlin, Meath",4
+1117,125000," Ross, Kilbaha, Clare",3
+1118,1400000," Robertstown, Kilmainhamwood , Kells, Meath",4
+1119,265000," 17 Leaca Ard, Abbeylands, Ferrybank, Ferrybank, Waterford",4
+1120,430000," Graigue, Aglish, Waterford",4
+1121,369950," 161 Malahide Road, Donnycarney, Dublin 3",2
+1122,310000," 58 Lioscian, Rathbeale Road, Swords, County Dublin",3
+1123,150000," Ballinagun East, Creegh, Clare",2
+1124,475000," Dun an Oir, Milestream , Shanakiel, Cork",4
+1125,850000," 11 Vernon Park, Clontarf, Dublin 3",3
+1126,395000," Corcullioncrew, Castleblayney, Monaghan",4
+1127,319950," 9 Cherryfield View, Clonsilla, Dublin 15",5
+1128,585000," 20 Harmony Avenue, Donnybrook, Dublin 4",2
+1129,100000," Kilmihil, Kilmihil, Clare",2
+1130,650000," Carrick, Edenderry, Kildare",5
+1131,265000," 7 Birch Close, Johnstown Wood, Navan, Meath",3
+1132,120000," 98 Clifden Glen, Clifden, Galway",1
+1133,450000," Cushlawn House, Castlecolumb, Knocktopher, Kilkenny",6
+1134,275000," Dublin Road, Johnstown, Kilkenny",4
+1135,499000," Clomantagh Barna, Kilkenny On C.10 Acres",4
+1136,420000," 1A Bonnettsrath Road, New Orchard, Kilkenny",4
+1137,200000," 9 Knockbrack Downs, Drogheda, Louth",3
+1138,300000," 32 Lissadel Drive, Drimnagh, Dublin 12",2
+1139,239000," 45 Bracken Drive, Old Tramore Road, Waterford City, Co. Waterford",3
+1140,220000," 1 Oak Drive, Hillview, Waterford City, Co. Waterford",3
+1141,179000," 10 Dunbane, Carrick-on-Suir, Tipperary",4
+1142,425000," 30 The Briars,Ashbourne,Co Meath,A84 NP92",4
+1143,495000," Baytown,The Ward,Co Meath,D11 CF59",4
+1144,125000," Kilkerin, Labasheeda, Clare",2
+1145,475000," 6 Priory Rise, Delgany Wood, Delgany, Wicklow",3
+1146,475000," 42 Woodbine Park, Raheny, Dublin 5",3
+1147,130000," Main St, Borrisokane, Co. Tipperary",3
+1148,995000," 37 Clarinda Park West, Dun Laoghaire, Dublin",5
+1149,1200000," 24 Clonfadda Wood, Blackrock, Co. Dublin",4
+1150,245000," 73 Maudlin Street, Kilkenny, Kilkenny",3
+1151,310000," 39 Oaklands, Arklow, Wicklow",5
+1152,695000," 88 Cypress Grove Road, Templeogue,   Dublin 6W",5
+1153,240000," 23 Colepark Drive, Ballyfermot, Dublin 10",3
+1154,340000," 10 Castlegate Grange Adamstown, Lucan, Dublin",3
+1155,350000," Castleview, Villierstown, Dungarvan, Waterford",3
+1156,2900000," 3 Saint Anthony's Place, Woodquay, Galway City, Co. Galway",3
+1157,695000," 47 Arnott Street, South City Centre, Dublin 8",2
+1158,160000," Bridge Street, Dunmanway,   West Cork",4
+1159,3750000," 25 Raglan Road, Ballsbridge, Dublin 4",5
+1160,850000," Cortober, Ballinaglera, Carrick-on-Shannon, Co. Leitrim",3
+1161,250000," 7 Deerpark View, Ballymacarbry, Waterford",4
+1162,1250000," Knockrea House, Douglas, Co. Cork",5
+1163,225000," Stoney Rd, Loon, Castlecomer, Kilkenny",4
+1164,625000," Painestown, Dublin Road, Drogheda, Meath",4
+1165,250000," 128 Brayton Park, Kilcock, Co. Kildare",3
+1166,249950," 109a Conquer Hill Road, Clontarf,   Dublin 3",1
+1167,545000," 170 Heathervue, Killincarrig, Greystones, Wicklow",3
+1168,239000," 6 Redwood Drive, Dooradoyle, Co. Limerick",3
+1169,260000," The Line Road, Meelin, Newmarket, Cork",3
+1170,350000," 32 Cuil Duin Walk, Citywest,   Dublin 24",4
+1171,275000," 35 Annesley Avenue, North Strand, Dublin 3",2
+1172,850000," 2 Limekiln Manor,Limekiln Road,Dublin 12,D12 RXV0",4
+1173,470000," 12 Browns Barn Wood, Kingswood Cross, Dublin 22, Dublin",4
+1174,315000," 9 Stralem Crescent, Ongar,, Ongar,   Dublin 15",4
+1175,675000," 33 Coolamber Court, Knocklyon, Dublin 16",4
+1176,595000," 3 Landsborough Park,Douglas,Cork,T12 NTC9",5
+1177,90000," 23 O Connell Road, Tipperary Town, Tipperary",2
+1178,120000," Flag Road, Miltown Malbay, Clare",1
+1179,545000," 188 Beech Park,Lucan,Co Dublin",4
+1180,645000," 2 Cloister Way, Carysfort Avenue, Blackrock, County Dublin",3
+1181,425000," Creaden Cottage, Ascurra, Dunmore East, Waterford",3
+1182,385000," 1 Spencer Street North, , North Strand, Dublin 3",2
+1183,625000," 42 Riverwood, Castleknock, Dublin 15",4
+1184,635000," 1 Highland Grove, Cabinteely, Dublin 18",3
+1185,725000," 68 Holywell, Upper Kilmacud Road, Goatstown, Dublin 14",3
+1186,450000," 16 Woodview Drive Boghall Road, Bray, Wicklow",3
+1187,145000," 49 Toorvalley, Moate, Westmeath",4
+1188,430000," 23 Fitzherbert Court, Drogheda, Meath",5
+1189,195000," 24 Shelduck Street, Aston Village, Drogheda, Louth",2
+1190,350000," 26 Lein Park, Artane, Dublin 5",3
+1191,650000," 114 Botanic Road, Glasnevin, Dublin 9",4
+1192,195000," 33 St. Senan's Road,Ennis,Co. Clare,V95 EPC0",3
+1193,410000," 22 Rathmore Lawn,Douglas,Cork City,Co. Cork,T12 Y2XR",3
+1194,675000," Bannow Mews,Belgrave Avenue,Wellington Road,Cork City,T23 K8W2",4
+1195,490000," 5 Manor Avenue,Maryborough Ridge,Douglas,Cork,T12 XHC7",4
+1196,290000," 30A Sheares Park,Glasheen,Cork,T12 K30V",3
+1197,895000," Rose Hill House,Lee Road,Cork City,Cork,T23 TFR7",6
+1198,359000," 2 Castlelyon Avenue, Newcastle, Dublin",3
+1199,285000," 108 Ashfield Green, Drogheda, Louth",3
+1200,350000," 511 Carnlough Road, Cabra, Dublin 7, Cabra, Dublin 7",2
+1201,320000," 17 Pineview Avenue, Aylesbury,   Dublin 24",3
+1202,695000," 13 Tivoli Avenue,Harold's Cross,Dublin 6W,D6W KD60",3
+1203,599995," 6 Stockwell, Sandyford Road, Dundrum, Dublin 16",2
+1204,1950000," 2 Monterey - Park Avenue, Sandymount, Dublin 4",4
+1205,950000," 3 Bedroom Penthouses at Marianella, Orwell Road, Rathgar, Dublin 6",3
+1206,100000," Drumbaun, Ballyhaunis, Mayo",3
+1207,625000," 19 Landsdowne Crescent, Landsdowne Park, Ballsbridge, D4",2
+1208,1500000," 49 Montpelier Parade , Monkstown, Dublin",4
+1209,8500000," The Sopwell Hall Estate, Ballingarry, Tipperary",10
+1210,495000," 61 Iveragh Road, Whitehall, Dublin 9",3
+1211,4900000," Raffeen, Scilly, Kinsale, Cork",5
+1212,1500000," Hyde Park House, Hydepark, Inch, Wexford",6
+1213,2450000," Royal Terrace House, Royal Terrace Square,, Dun Laoghaire, County Dublin",6
+1214,275000," 12 Ruanbeg Green, Kildare Town, Kildare",3
+1215,225000," 177 Brookville, Drogheda, Louth",3
+1216,470000," 4 lisroe, Bog Road, Oranmore, Oranmore, Galway",4
+1217,399950," 14c Poplar Row, North Strand, Dublin 3",3
+1218,875000," 38 Oak Dene,Ballinclea,Killiney,Co Dublin,A96 D5K6",4
+1219,300000," No.2 The Cottage, The Murragh, Wicklow Town, Wicklow",2
+1220,495000," 4 Hunters Walk. Hunters Wood, Ballycullen, Dublin 24",4
+1221,650000," Sunnydale, 4 Nugent Road , Churchtown, Dublin 14",3
+1222,795000," 71 Highfield Park , Dundrum, Dublin 14",4
+1223,435000," The Planting, Magherabeg, Burnfoot, Inishowen, Donegal",7
+1224,445000," 13 Pembroke Cottages, Dundrum, Dublin",2
+1225,575000," Cregganna Beg, Oranmore, Co. Galway, Oranmore, Galway",4
+1226,330000," 16 Elm Drive, Shamrock Lawn, Douglas, Cork",3
+1227,249950," 33 Ballyneety Road , Ballyfermot,   Dublin 10",2
+1228,525000," 7 Shandon Crescent, Phibsboro, Dublin 7",3
+1229,925000," 16 Clare Road, Drumcondra, Dublin 9",3
+1230,4250000," Grianblah,26 Palmerston Park,Rathmines,Dublin 6,D06 R9P9",5
+1231,4750000," Norwood,44 Cowper Road,Rathmines,Dublin 6,D06 Y8X9",5
+1232,370000," 24 Saint Joseph's Road, Greenhills, Dublin",3
+1233,500000," 60 Orchard Terrace, Stoneybatter, Dublin 7",4
+1234,279000," 38 Hillview, Clane, Kildare",2
+1235,360000," 33 Clonmore Road, Ballybough, Dublin 3",3
+1236,695000," 32A Baskin Cottages, Kinsealy, Dublin",4
+1237,295000," 10 St Aongus Crescent,Tymon North,Tallaght,Dublin 24,D24 N5C0",3
+1238,145000," 6 Carmody Square,Fairgreen,Portlaoise,Co. Laois,R32 CAE0",2
+1239,925000," 100 Old Cabra Road,North Circular Road,Dublin 7,D07 KX7Y",4
+1240,395000," 11 De Verdon Place,Robinstown,Navan,Co. Meath,C15 P2V4",4
+1241,575000," 21 Arbour Hill,Stoneybatter,Dublin 7",3
+1242,825000," Portland House,555 South Circular Road,Kilmainham,Dublin 8,D08 R1X0",5
+1243,325000," The School House,Ballinlough,Leap,P81 PY79",4
+1244,190000," 126 Fairway Heights,Knocknacuig,Tralee,Co. Kerry,V92 X0T0",3
+1245,210000," Leyland House,Caherslee,Tralee,Co. Kerry,V92 P2E5",3
+1246,580000," 70 Celbridge Abbey, ., Celbridge, Co. Kildare",4
+1247,625000," 409 Orwell Park Drive,Templeogue,Dublin 6W,D6W WK82",4
+1248,575000," 275A Harold's Grange Road,Rathfarnham,Dublin 16,D16 Y867",3
+1249,280000," 25 Millbridge Avenue,Naas,Co Kildare,W91 C79C",2
+1250,1500000," Tonaphuca, Punchestown, Naas, Co. Kildare",5
+1251,450000," Scarlettstown, Newbridge, Co. Kildare",3
+1252,750000," Johnstown Lodge, Johnstown, Naas, Co. Kildare",5
+1253,345000," Carrick Cottage, Kilmeauge, Naas, Co. Kildare",2
+1254,265000," 4 Hunterswood, Osberstown, Naas, Co. Kildare",2
+1255,595000," 32 Beverly Crescent,Knocklyon,Dublin 16,D16 VP48",4
+1256,405000," 17 Long's Place, Rialto, Dublin 8",4
+1257,1250000," 2 Windsor Terrace,Portobello,Dublin 8,D08 E9T8",3
+1258,520000," 29 Carrriglea, Killenard, Monasterevin, Kildare",5
+1259,385000," William's Grove, Ardclough, Straffan, Kildare",3
+1260,405000," William's Grove, Ardclough, Straffan, Kildare",3
+1261,395000," 4 Cruagh Court, Stepaside, Dublin 18",2
+1262,200000," 33 Crosneen Manor, Leighlin road, Co. Carlow",3
+1263,825000," Carnadough,Culleenamore,Strandhill,Co. Sligo,F91H5N4",4
+1264,1595000," 2 Gilford Park,Sandymount,Dublin 4,D04 P927",4
+1265,1100000," 6 Castlewood Park,Rathmines,Dublin 6,D06 P9F6",3
+1266,1600000," Béal Inse,29 Rathgar Road,Rathgar,Dublin 6,D06 T9K7",4
+1267,945000," 3 Merton Walk,Mount St Annes,Milltown,Dublin 6,D06 K264",4
+1268,525000," Laois County Lodge,Dublin Road,Portlaoise,Co. Laois,R32XW77",8
+1269,220000," Mullatishaughlin,Ballinode,Co. Monaghan,H18YP29",3
+1270,370000," Ashur, Kylemore, The Rower, Co. Kilkenny",3
+1271,295000," 38 Phoenix Street West, Kilmainham, Dublin 10, Dublin",2
+1272,149000," 17 Athlunkard Street,Limerick,V94 A588",1
+1273,130000," Brooklawn, Leitrim Upper, Mullagh, Co. Meath",3
+1274,240000," 4 Ballymanus Court, Main Street, Glenealy, Co. Wicklow",3
+1275,1000000," 64 Vernon Avenue, Clontarf, Dublin 3",4
+1276,1350000," Olney, 1 Hollybrook Road, Clontarf, Dublin 3",5
+1277,800000," 103 Clontarf Road, Clontarf, Dublin 3",4
+1278,350000," 30 Northbrook Terrace, North Strand, Dublin 3",3
+1279,495000," 384 Collinswood, Beaumont, Dublin 9",3
+1280,545000," 32 Elm Mount Heights, Beaumont, Dublin 9",5
+1281,215000," 13 Cherryorchard Heights,Enniscorthy,Co Wexford,Y21 F2W5",3
+1282,595000," 84 Cabra Park,Phibsborough,Dublin 7,D07 VE80",3
+1283,240000," 14 Meath Square, The Coombe, Dublin 8 D08 W3V1",1
+1284,385000," 67 St Marys Road North, East Wall, Dublin 3 D03 CY54",3
+1285,2225000," 48 Abington, Malahide, Co Dublin K36 E335",6
+1286,435000," 117, Saran Wood, Bray, Wicklow",3
+1287,635000," 20 Stillorgan Gate,Upper Kilmacud Road,Co. Dublin,D14 FK81",3
+1288,575000," 66 Pembroke Cottages, Donnybrook, Dublin 4",1
+1289,225000," 4 Park Glen, Grange Rath, Drogheda, Co. Meath",3
+1290,130000," Dowagh West, Cross, Claremorris, Co. Mayo",1
+1291,299500," Fiddlers Cottage, Terryglass, Co. Tipperary",2
+1292,650000," Mews 2, Pembroke Place, Pembroke Street Upper, South City Centre, Dublin 2",3
+1293,335000," 5 Shannon Terrace, Kilmainham,   Dublin 8",2
+1294,199000," 5 Ginnell Tce, Mullingar, Westmeath",3
+1295,385000," 20 Allendale Drive,Clonsilla,Dublin 15,D15 A2N9",3
+1296,525000," 2 Belarmine Heath, Stepaside,   Dublin 18",3
+1297,150000," Castleross, Dundalk, Co. Louth",3
+1298,2200000," 24 Belcamp Crescent, Darndale, Dublin 17",3
+1299,1375000," 16 Eaton Square, Monkstown, Co. Dublin",4
+1300,185000," The Gateway Cottage, Rocklow Road, Fethard, Co. Tipperary",2
+1301,210000," Lickbla, Castlepollard, Westmeath",8
+1302,280000," 23 Phoenix street, Dublin 10, Dublin",2
+1303,225000," 6 Bellgree Woods, Tyrrelstown, Dublin 15",2
+1304,215000," 11 The Elms, Swellan Lower, Cavan Town, Co. Cavan",5
+1305,1150000," Glen Lodge,Church Road,Greystones,Co Wicklow",4
+1306,175000," Lisreagh, Cavan Town, Co. Cavan",4
+1307,495000," Larkinstown, Clonard Great, Wexford Town, Wexford",4
+1308,650000," 74 Trimleston Gardens,Booterstown,Co Dublin,A94 TD95",3
+1309,850000," 27 Yellow Walls Road, Malahide, County Dublin",4
+1310,99000," Apartment 22 Buttermarket Apartments, Quay Street, Sligo City, Sligo",2
+1311,280000," Raheen, Piltown, Co. Kilkenny",3
+1312,120000," 6c Clonmullen Hall, Edenderry, Co. Kildare",3
+1313,700000," 58 Dr. McGinley Road, Letterkenny, Donegal",3
+1314,155000," 36 Coney Meadows,Coneyboro,Athy,Co Kildare,R14 A304",2
+1315,205000," 6 The Glen, Lower Mell, Drogheda, Louth",2
+1316,485000," 2 Lansdowne Terrace, St. Patricks Hill, City Centre Nth, Cork City",6
+1317,2750000," Cherrytree Cottage, Oberstown, Tara, Co Meath, Tara, Meath",2
+1318,250000," 8 Temple Mills Cottages, Celbridge, Co. Kildare",2
+1319,380000," 21 Newcastle Manor Crescent, Newcastle, Co. Dublin",4
+1320,385000," 8 South dock Street, Ringsend, Dublin 4",1
+1321,120000," Main Street, Kildysart, Clare",4
+1322,279950," 19 Benbulbin Avenue, Drimnagh, Dublin 12",2
+1323,320000," St. Mullins Road, Tinnahinch, Graiguenamanagh, Kilkenny",4
+1324,195000," 166 Maple Woods, Ballinacurra, Midleton, Cork",2
+1325,220000," Pottlebane, Carnaross, A82, Kells, Co. Meath",2
+1326,430000," Lissivigeen, Killarney, Kerry",6
+1327,295000," 55 Cashel Avenue, Crumlin, Dublin 12",2
+1328,275000," 100 Priory Lodge, St Raphaels Manor, Celbridge, Co. Kildare",2
+1329,349950," 200 Mourne Road, Drimnagh,   Dublin 12",3
+1330,275000," 28 Maynooth Road, Celbridge, Co. Kildare",3
+1331,120000," 1 Bohernanave, Thurles, Tipperary",3
+1332,70000," 1 Clobanna Terrace, Mitchel Street, Thurles, Tipperary",1
+1333,320000," 20 St. Gabriels Place,Naas,Co Kildare,W91 A9DV",3
+1334,350000," 25, Dun Emer Place, Lusk, County Dublin",3
+1335,249500," Ryefield, Virginia, Cavan",4
+1336,740000," 103 Highfield Park, D14, Dundrum, Dublin 14",3
+1337,1650000," 9 Greygates, Mount Merrion, Co. Dublin",4
+1338,330000," The Lane, Dromiskin, Co. Louth",3
+1339,995000," 30 Oulton Road, Clontarf, Dublin 3",5
+1340,850000," 64 Rathdown Avenue,Terenure,Dublin 6w,D6W YD28",3
+1341,575000," 14 The Drive, Woodpark, Ballinteer, Dublin 16",3
+1342,285000," 17 Belfry Square, Citywest, Dublin",3
+1343,140000," 3 Abbott Mews, Holycross, Thurles, Tipperary",3
+1344,545000," 5 Woodstown Lawn, Knocklyon, Dublin 16",4
+1345,395000," 3 Soldiers View, Bray, Wicklow",3
+1346,245000," 51 Suncrest, Clarinwood, Tramore, Waterford",3
+1347,625000," Highfield House, Bolinready, Ballycanew, Gorey, Wexford",8
+1348,375000," Currabeha, Fermoy, Cork",4
+1349,229000," 52 Slí Na Móna, Portarlington, Laois",3
+1350,520000," The Heron at Skylark, St. Marnock's Bay, Portmarnock, Dublin",3
+1351,315000," 30 Warrenstown Green, Mulhuddart, Dublin 15",3
+1352,425000," 28 Kirwan Street, Stoneybatter, Dublin 7",2
+1353,130000," 293 Blarney Street, Cork City, Cork",1
+1354,242000," 28 Carn Glas Way, Gracedieu, Waterford",3
+1355,200000," 8 Chapelgate, Kilmacow, Kilkenny",3
+1356,420000," 6 An Leac Lian, Barna, Co. Galway",4
+1357,595000," Residence & Stables on c. 14 Acres, Nurney, Kildare",4
+1358,475000," 18 CLAREMONT COURT, Glasnevin, Dublin 11",4
+1360,79500," 5 Silverhill, Ballisodare, Sligo",2
+1361,150000," 8 West Singland Road, Garryowen, Co. Limerick",2
+1362,360000," 601 The Fountain Courtyard, The K-Club, ., Straffan, Co. Kildare",1
+1363,800000," 22 Leinster Wood, Carton Demesne, Maynooth, Co. Kildare",4
+1364,150000," Abbey Street, Timoleague, West Cork",2
+1365,295000," Lerr Avenue, Abbeylands, Castledermot, Kildare",5
+1366,290000," 284 Palmerstown Woods, Clondalkin, Dublin 22",3
+1367,475000," 24 Kirkpatrick Drive, Clonsilla,   Dublin 15",3
+1368,539000," 72 Moyville, Rathfarnham, Dublin 16",4
+1369,150000," 3 The Lawn, Bawnboy, Co. Cavan",3
+1370,179000," No.1 Mac Art Meadows, Longford, Longford",4
+1371,395000," St Michaels,Rocksborough,Wexford Town,Co. Wexford,Y35D6H0",3
+1372,239950," 43 Parkview, Athboy, Meath",4
+1373,400000," Sunbury, Cregboy, Claregalway, Galway",4
+1374,239000," 186 Cooley Road, Drimnagh, Dublin 12",2
+1375,360000," 8 Griffeen Glen Vale, Lucan, Co. Dublin",3
+1376,250000," 19 Millcourt Avenue, Clondalkin, Dublin 22",3
+1377,325000," 27 Lipstown Manor, Narraghmore, Kildare",4
+1378,210000," 40 Kernanstown, Bennekerry, Carlow Town, Carlow",4
+1379,255000," Aughrim,Hillstreet,Carrick-On-Shannon,Co. Roscommon,N41EW95",4
+1380,355000," 90 Belmayne Park South, Balgriffin, Dublin 13",3
+1381,325000," 53 Liffey Terrace, Liffey Valley Park, Lucan, Dublin",3
+1382,4500000," Daars, Straffan, Co. Kildare",5
+1383,350000," 88 Castledawson, Maynooth, Co. Kildare",3
+1384,1000000," 11 Mill Glen, Moville, Donegal",3
+1385,395000," 63 Ennel Court, Ballybrack, Dublin South",4
+1386,225000," 32 Thorndale Close, Kingscourt, Cavan",4
+1387,475000," 102 Tolka Estate & Site , Glasnevin, Dublin 11",5
+1388,175000," 25 Carraig Beag, Cootehill, Cavan",3
+1389,239000," Fern Hill Cottage , Thomastown, Kilkenny",4
+1390,750000," 20 Emorville Avenue, South Circular Road,   Dublin 8",4
+1391,345000," 16 Donore Avenue, South Circular Road, Dublin 8",2
+1392,700000," Shalom, 3 St David`s, Artane, Dublin 5",4
+1393,445000," 36 Hunters Avenue , Hunterswood, Ballycullen, Dublin",3
+1394,1150000," 3 Glenair Manor, Delgany, Wicklow",5
+1395,395000," 6 Seanacloc Tower, Blarney, Co. Cork, Tower, Cork",4
+1396,115000," Lisnaclea, Carrickmacross, Monaghan",3
+1397,260000," 87 The Paddocks,Williamstown Road,Grantstown,Waterford,X91 ET0A",3
+1398,850000," 22 Sandycove Road, Sandycove, County Dublin",4
+1399,425000," 7 Fitzgerald Park, Dun Laoghaire, County Dublin",4
+1400,595000," 7 Brookfield Avenue, Blackrock, County Dublin",2
+1401,495000," 23 Bayside Walk, Sutton, Dublin 13",3
+1402,495000," 15 Moatfield Avenue, Artane, Dublin 5",3
+1403,435000," 116 Hollybrook Park, Bray, Wicklow",3
+1404,285000," 26 Beechlawns, Johnswell Road, Kilkenny, Kilkenny",3
+1405,320000," 32 Captains Avenue, Crumlin, Kimmage, Dublin 12",3
+1406,725000," 30 Trimleston Gardens, Booterstown, County Dublin",3
+1407,395000," 42, Kiltegan Lawn, Rochestown, Cork",4
+1408,375000," 82 Ballygall Road East, Glasnevin, Dublin 11",3
+1409,1250000," 61 Taney Rise, Dundrum, Dublin 14",5
+1410,395000," 14 South Dock Street, Ringsend, Dublin 4",2
+1411,448000," 30, Saint Brendans Park , Coolock, Dublin 5",4
+1412,1950000," 'Woodbury', 10 Mabestown, Malahide, Dublin",5
+1413,475000," 180 Lackanash, Trim, Co. Meath",4
+1414,120000," The Bridge,Ardamore,Lispole,Co. Kerry,V92 A6C8",4
+1415,360000," 32 Ardsolus,Brownsbarn,Kingswood,Dublin 22,D22 X8K3",3
+1416,119000," No. 7 St Patricks Court , Ballinamuck, Longford",2
+1417,945000," 2 Priory Avenue,Eden Gate,Delgany,Co Wicklow,A63 RD32",5
+1418,2950000," Ronan House,Upper Churchtown Road,Churchtown,Dublin 14,D14 AK72",6
+1419,750000," 57 Kincora Road, Clontarf, Dublin 3",4
+1420,329000," Kilgarvan,Carrowreagh,Adamstown,Co Wexford,Y35 1234",3
+1421,225000," 59 Pineridge,Wexford Town,Y35 C8Y2",3
+1422,1550000," Reaghstown, Arthurstown, Ardee, Co. Louth",4
+1423,355000," Residence at Derrycarhoon, Ballydehob,   West Cork",2
+1424,300000," 2 Castleview Green,Swords,Co. Dublin,K67 PT89",2
+1425,325000," 3 Ceol Na Mara,Rush,Co. Dublin,K56 WV04",3
+1426,545000," 15 Luttrell Park Close, Castleknock, Dublin 15",3
+1427,295000," Coogue Middle, Ballyhaunis, Mayo",4
+1428,695000," 16 Parsons Hall,Maynooth,Co Kildare,W23 F1P6",4
+1429,495000," 37 Patrician Villas, Stillorgan, County Dublin",3
+1430,254950," 112 Finglas Road, Finglas, Dublin 11",3
+1431,389000," Mandeville,Fortmary Park,Limerick,V94D5DF",3
+1432,340000," 38 Colmcille Road,Shantalla,Galway,H91 T2WK",3
+1433,495000," 27 Orwell Park Rise, Templeogue, Dublin 6W",3
+1434,550000," Rosapenna, New Road, Clondalkin,   Dublin 22",4
+1435,350000," 13 Chestnut Grove,Wheaton Hall,Drogheda,Co Louth,A92 H2XR",3
+1436,289000," 2 Willans Place East, Ongar, Dublin 15",2
+1437,350000," Streamside, Cloneen, Castlecomer, Kilkenny",4
+1438,550000," 3 Rivermill, Sheetland Road, Termonfeckin, Co. Louth",5
+1439,470000," 5 Luttrellstown Oaks,Castleknock,Dublin 15,D15 H9W3",3
+1440,245000," 11 Limetree avenue, Termon Abbey, Drogheda, Co.Louth, Drogheda, Louth",4
+1441,595000," 3 Kempton Park,Navan Road (D7),Dublin 7,D07 T3C6",3
+1442,525000," 41 Riverwood Gardens,Castleknock,Dublin 15,D15 E1C6",3
+1443,250000," 11 Mullan Mor, Tuam Road, Co. Galway",3
+1444,265000," 50 Saint Johns Close, Clondalkin,   Dublin 22",2
+1445,180000," Glannycumnane, Freemount, Co.Cork , Freemount, Cork",3
+1446,350000," 2 Allendale Glen,Clonsilla,Dublin 15,D15 K4H7",3
+1447,675000," 14 Eden Grove, Rathfarnham, Dublin 16",4
+1448,299950," 29 Latchford Green, Clonee, Dublin 15",3
+1449,175000," Weekfield, Coolshaghtena, Co. Roscommon",4
+1450,190000," 2 College Court, College Manor, Cobh, Cork",2
+1451,497000," Ref 967 - Naomh Brigid, Knockeens, Caherciveen, Kerry",5
+1452,395000," 'Hill Top Lodge', Claremount, Oughterard, Galway",7
+1453,370000," 31 Bramblefield Park, Clonee, Dublin 15",3
+1454,285000," Bogganstown,Culmullin, Drumree, Meath",3
+1455,345000," 1 Church Park Lawn, Harold's Cross, Dublin 6W",2
+1456,1200000," 19 College Gate,Castleknock,Dublin 15,D15 W6TF",7
+1457,2250000," Slievebawn, Monaseed, Gorey, Wexford",3
+1458,235000," Dowrea, Ballygawley, Sligo",3
+1459,110000," 19 Saint Joseph's Terrace, Elm Park, Clonmel, Co. Tipperary",3
+1460,950000," 14 Purcell Park, Shannon, Co. Clare",4
+1461,225000," 122 Cedarfield, Donore Road, Drogheda, Louth",3
+1462,435000," 13 Kimmage Grove, Kimmage,   Dublin 6W",3
+1463,895000," 14 Oakdene, Ballinclea Road, Killiney, Co. Dublin",5
+1464,595000," 50 Church Drive,Eden Gate,Delgany,Co Wicklow,A63 ET35",4
+1465,625000," 10A Arch Villas,Victoria Road,Greystones,A63 DT99",4
+1466,575000," 86a Park Drive Avenue, Castleknock, Dublin 15",3
+1467,125000," 48 Whitehill , Muff, Donegal",3
+1468,345000," 3 South Gate, Cork Street, South City Centre, Dublin 8",1
+1469,395000," The Pines, Nook, Arthurstown, Wexford",4
+1470,350000," 21 Mallin Avenue, D08, Rialto, Dublin 8",2
+1471,295000," 2 Castleview, Carrigtwohill, Cork",3
+1472,1100000," 35 Hazelbrook Crescent, Letterkenny, Co. Donegal",3
+1473,94950," 5 Taghshinny Lodge, Longford, Longford",3
+1474,435000," 1 Church Road, Nenagh, Tipperary",4
+1475,360000," Valley View, O'Neill's Park, Newtownmountkennedy, Co. Wicklow",3
+1476,239950," 5 Deansrath Avenue, Clondalkin, Dublin 22",3
+1477,675000," 4 Birchfield Heights, Goatstown, Dublin 14",4
+1478,135000," 15 Court Crescent, Virginia Road, Ballyjamesduff, Co. Cavan",2
+1479,250000," 50 Ashvale Court,Station Road,Duleek,Co Meath,A92 Y6C5",3
+1480,265000," 10 Elderwood, Castlebridge, Wexford",3
+1481,189000," 70 Fourth Avenue, off Seville Place, North Wall, Dublin 1",1
+1482,1350000," 5 Greenmount Road, Terenure,   Dublin 6",5
+1483,298000," 22 Slan Duff View, Kenstown, Navan, Meath",4
+1484,365000," 12 Ellensborough Grange, Kiltipper , Tallaght, Dublin 24",3
+1485,160000," 45 Spruce Court, Ashleigh Downs , Tralee, Kerry",3
+1486,240000," 87 Ratoath Avenue, Finglas, Dublin 11",3
+1487,400000," 19 Hawthorn Wood, Suncroft, Kildare",4
+1488,345000," 82 Seagrange Road, Baldoyle, Dublin 13",3
+1489,150000," Brown Street, Portlaw, Co. Waterford",2
+1490,340000," House Type A, Castle Court, Whitechurch, Cork",4
+1491,1100000," 41 Oaklands Drive, Rathgar,   Dublin 6",4
+1492,315000," House Type B, Castle Court, Whitechurch, Cork",3
+1493,310000," 165 Bunratty Road, Coolock, Dublin",3
+1494,305000," House Type C, Castle Court, Whitechurch, Cork",3
+1495,279000," 119 Tur Uisce, Doughiska, Galway City",3
+1496,460000," House Type D, Castle Court, Whitechurch, Cork",4
+1497,460000," House Type F, Castle Court, Whitechurch, Cork",4
+1498,335000," 86 Saunders Lane,Rathnew,Co. Wicklow,A67 V258",3
+1499,262500," 192 Tur Uisce, Doughiska, Galway City",4
+1500,297500," 6  Westbury Estate, Wilton, Cork",3
+1501,260000," 4 Caledon Road, East Wall, Dublin 3",3
+1502,375000," 31 Grange Abbey Crescent, Donaghmede, Dublin 13",4
+1503,250000," Honeysuckle Cottage Crostera West, Glengarriff, West Cork",2
+1504,795000," Liwara, Shanganagh Road, Killiney, County Dublin",4
+1505,449000," 15 Oakdale Close, Ballycullen, Dublin 24",3
+1506,675000," Sunnyside, Golf Links Road, Bettystown, Co. Meath",4
+1507,1850000," 12 Spencer Villas, Glenageary, Co. Dublin",5
+1508,349000," 94 Ventry Park, Cabra, Dublin 7",2
+1509,550000," 14 Auburn Street, Broadstone, Dublin 7",3
+1510,247500," Sunnyside, Ballykilkline, Kilglass, Roscommon",4
+1511,190000," 30 Colliers View, Portlaoise, Laois",3
+1512,395000," 27 Carrigwood, Firhouse, Dublin 24",3
+1513,400000," Monalee, Gorey, Wexford",4
+1514,425000," 'Waverley', 6 Linden Avenue, Beaumont, Blackrock, Cork City",3
+1515,590000," Kilhedge Lane, Lusk, Dublin",3
+1516,895000," Bankside House, Woodside Road, Sandyford, Dublin 18",4
+1517,795000," 20 HAMPTON PARK, St. Helen's Wood, Booterstown,   County Dublin",4
+1518,1300000," 127 St. Helens Road, Booterstown, Co. Dublin",4
+1519,350000," 52 Faussagh Avenue, Cabra, Dublin",3
+1520,289000," 6 Farranvilla,Farranshone,Limerick,V94 RC2X",4
+1521,275000," Blackberry Cottage, Halltown, Dunderry, Navan, Meath",3
+1522,140000," Drumhaldry, Moyne, Co. Longford",2
+1523,229000," 4 Croftwood Park, Cherry Orchard, Dublin 10",3
+1524,210000," 190 Cluain Dara, Clonard, Wexford, Co. Wexford",4
+1525,149000," Coolboy, Tinahely, Wicklow",3
+1526,175000," 41 Ard Michael, Longford, Longford",3
+1527,355000," 5 Rochfort Crescent, Lucan, Co. Dublin",3
+1528,350000," 38 Richmond Road, Drumcondra, Dublin 3",3
+1529,235000," 18A Cedarwood Drive, Waterpark , Carrigaline, Cork",3
+1530,425000," ""Ennistone"", No. 5 Slaney View Court, Coolcotts, Wexford Town, Wexford",3
+1531,545000," 5 Sandyford Hall Close, Sandyford, Sandyford, Dublin 18",3
+1532,435000," Shaney House, Colbinstown, Kilcullen, Kildare",5
+1533,189000," 100 Ceol Na Habhainn, Caherconlish, Limerick",2
+1534,240000," 6 An Culan, Rathcormac, Cork",3
+1535,250000," RATHCONOR, Four Mile House, Roscommon",4
+1536,375000," 8 Camac Court,Kilmainham,Dublin 8,D08 W3P9",2
+1537,395000," 103 Ceannt Fort,Kilmainham,Dublin 8,D08 A6C1",2
+1538,450000," 16 Faulkners Terrace,Kilmainham,Dublin 8,D08 A32Y",2
+1539,230000," Dore Upper, Bunbeg, Donegal",4
+1540,249000," Lisduff Cottage, Craughwell, Galway",2
+1541,160000," 47 Harbour Close, Newtown, Killaloe, Co. Clare",3
+1542,450000," Clonmoyle West, Rathangan, Kildare",4
+1543,340000," 27 The Heath, Liffey Hall, Newbridge, Kildare",4
+1544,995000," Kingstown Mews, 5 Park Lane, Dun Laoghaire, County Dublin",4
+1545,350000," 6 Turret Road, Palmerstown, Dublin 20",3
+1546,145000," 17 Park Street West, The Ranch, Ballyfermot, Dublin 10",1
+1547,360000," 256 Charlesland Wood , Greystones, Wicklow",2
+1548,260000," 28 Kings Avenue, Ballybough,   Dublin 3",2
+1549,325000," 13 Earlsfort Meadows, Lucan, County Dublin",3
+1550,625000," 42 Whitworth Road, Drumcondra, Dublin 9",3
+1551,110000," Meanus , Castlemaine, Kerry",3
+1552,320000," 48 Manor Court, Knocknacarra, Galway City",3
+1553,390000," Cokery House,Cavansheath,Ballyfin,Co. Laois,R32 F985",5
+1554,425000," Main Street,Kingscourt,Co. Cavan,A82 D6H9",4
+1555,675000," 494 Howth Road, Raheny, Dublin 5",5
+1556,250000," 1 Hazelwood, Ballivor, Co Meath",4
+1557,70000," Curhoor,Kilnadeema,Loughrea,Co. Galway,H62 HN50",1
+1558,275000," 99 Clonard,Westbury,Corbally,Limerick,V94 D3TT",4
+1559,245000," 4 Newman`s Mall, Kinsale, Co. Cork",1
+1560,135000," 35 Morrisson\'s Road, Waterford City, Co. Waterford",3
+1561,145000," 18 Grattan Close,Claremorris,Co. Mayo,F12 F5D8",3
+1562,345000," 6 Gleann Na Riogh Drive, . ., Naas, Co. Kildare",3
+1563,300000," 10 Saddlers Crescent,Mulhuddart,Dublin 15,D15 Y2N0",3
+1564,625000," 43 Woodview Park, Castleknock, Dublin 15",3
+1565,195000," 26 Valley Court,Dublin Road,Athlone,Co. Westmeath,N37 X8E2",3
+1566,275000," Kilglass Lake View. Rooaun, Kilglass, Roscommon",5
+1567,240000," Lough Tain, Omeath, Co. Louth",3
+1568,395000," 2 Grove Park Road, Glasnevin Nth, Dublin 11",3
+1569,300000," 25 Gleann na Smol,Shannon,Co Clare,V14 A440",4
+1570,550000," 64 Roebuck Castle,Clonskeagh,Dublin 14,D14 RH79",2
+1571,475000," 17 Tudor Heights, Ashbourne, Co. Meath",5
+1572,500000," 24 Fisherman's Wharf, York Road, Ringsend, Dublin 4",4
+1573,225000," 4 Park Glen, Grange Rath, Drogheda, Co. Louth",3
+1574,139500," 19 Hamilton Drive, Nenagh, Co. Tipperary",3
+1575,199950," Pallas West, Toomevara, Nenagh, Co. Tipperary",5
+1576,180000," 77 Springfort Meadows, Nenagh, Co. Tipperary",3
+1577,345000," 1 Cois na Coille,Carrabane,Athenry,Co. Galway,H65 A436",4
+1578,340000," Caherhenryhoe,Carrabane,Loughrea,Co. Galway,H62 P088",4
+1579,250000," Letter West, Kilcrohane, West Cork",6
+1580,270000," 39 The Crescent, Ongar, Dublin 15",3
+1581,75000," Rosemary Street, Roscrea, Co. Tipperary",3
+1582,175000," 29 Chambersland Close , New Ross, Wexford",3
+1583,175000," Newtown Farragher, Four Mile House, Co. Roscommon",3
+1584,545000," 204 Heathervue,Greystones,Co Wicklow,A63 H563",3
+1585,515000," 5 Woodview Park, Castleknock, Dublin 15",3
+1586,400000," 100 Naas Road, Inchicore, Dublin 8",3
+1587,525000," 31 Woodlands, Maynooth, Co. Kildare",4
+1588,285000," 52 Thornhill Heights, Celbridge, Maynooth, Co. Kildare",3
+1589,695000," Roseville, Maynooth Road, Celbridge, Co. Kildare",4
+1590,995000," 128 Lower Drumcondra Road,Drumcondra,Dublin 9,D09 H294",4
+1591,120000," Wuthering Heights, Kilmore, Broadford, Co. Limerick",1
+1592,975000," 25A PARK VILLAS, Castleknock, Dublin 15",3
+1593,495000," 11 Alma Court, Off Mount Pleasant Place, Ranelagh, Dublin 6",3
+1594,550000," 7 Marlborough Court, Glenageary, Co. Dublin",3
+1595,800000," Sparrows Nook, Allies River Road, Shankill, Dublin 18",7
+1596,375000," 4 Ivy Terrace, Cork Street, D08, Dublin 8, Dublin",2
+1597,275000," 224 Eagle Valley,Sarsfield Road,Wilton,Cork,T12YYD8",3
+1598,159000," Convent Road, Ballaghaderreen, Roscommon",4
+1599,375000," 44 The Green, Dunboyne Castle, Dunboyne, Meath",3
+1600,130000," 111 The Maples Hazelhill, Ballyhaunis, Mayo",3
+1601,450000," 12 Douglas Close, Douglas, Co. Cork",3
+1602,225000," 16 Johns Quay, Kilkenny, Kilkenny",3
+1603,525000," Slaney View, Station Road, Rosslare Strand, Co. Wexford",5
+1604,400000," 5 Ravenswood Green,Clonsilla,Dublin 15,D15 X7X0",3
+1605,225000," Kingswell, Tipperary Town, Tipperary",3
+1606,475000," 3 Mourne Lodge, Drimnagh, Dublin 12",4
+1607,165000," Glencarra, Knock, Mayo",3
+1608,230000," Bar-Tailed Godwit, 16C Mariner's Cove Baltimore, West Cork, Cork",2
+1609,160000," 4 Portnick Drive, Creagh, Ballinasloe, Galway",3
+1610,140000," 3 McCann Street,Cashel,Co Tipperary",3
+1611,650000," 40 Beach Park, Portmarnock, County Dublin",4
+1612,495000," Downamona, Nenagh, Co. Tipperary",5
+1613,250000," Ard Na Greine, Birmingham Road, Tuam, Galway",5
+1614,395000," Bramley House, Martinstown, Curragh, Kildare",5
+1615,129000," 10a Connolly Street, Sligo City, Sligo",3
+1616,398000," 105 Mount Tallant Avenue, Terenure, Dublin 6",3
+1617,210000," 12, The Willows, Churchfield, Mallow, Cork",3
+1618,250000," 152 Ballinacurra Gardens, Ballinacurra, Limerick City",3
+1619,280000," San Antoine, 26 Clontarf Estate, Blackrock, Cork City",3
+1620,145000," Cloghoge Lower,Castlebaldwin,Co. Sligo,F52WR90",3
+1621,595000," 37a Ashtown Grove, Navan Road, Dublin 7",3
+1622,495000," 33 The Walk Robswall, Malahide, County Dublin",3
+1623,225000," 25 Kilmartin Gardens, Tallaght, Dublin 24",3
+1624,415000," 28 South Dock Street, Ringsend, Dublin 4",2
+1625,549000," 35 Castlemoyne, Balgriffin, Dublin 13",5
+1626,315000," 5 Barley Fields,Bealnamulla,Athlone,Co. Roscommon,N37 K2X4",4
+1627,350000," Loughandonning House,Bonavalley,Athlone,Co. Westmeath,N37 W2X3",5
+1628,150000," 10 Meadow Park, Kilbeggan, Westmeath",3
+1629,2200000," 59 Grosvenor Road, Rathgar,   Dublin 6",5
+1630,675000," Lisquinlan, Ladysbridge, Midleton, Cork",6
+1631,1950000," No 10 Pembroke Road , Ballsbridge, Dublin 4",6
+1632,365000," 4 Admirals Walk, Kinsale, Cork",3
+1633,235000," 32 Barrett's Terrace, Gurranabraher, Cork",3
+1634,350000," Teachers Residence, Coolboy, Tinahely, Wicklow",4
+1635,220000," 94 Clonard Village, Wexford, Co. Wexford",3
+1636,265000," 43 Kiltalown Heights, Jobstown, Dublin 24, Dublin",3
+1637,395000," 418 Collins Avenue, Dublin 9, Whitehall, Dublin",4
+1638,495000," 25 Stocking Wood Manor, Rathfarnham, Dublin 16",3
+1639,750000," 5 Fortwell Court, Fortwell, Letterkenny, Co. Donegal",4
+1640,550000," Inchamore, Ballina, Tipperary",4
+1641,350000," 8, Redwood Avenue, Tallaght, Dublin 24, D24 K6P7",3
+1642,300000," 52, Heatherview Park, Aylesbury, Tallaght, Dublin 24",3
+1643,330000," "" Creteboom "" Quay Road, Ballina, Mayo",4
+1644,1200000," 42 Brighton Road, Rathgar, Dublin 6",5
+1645,125000," Coolross, Newport, Tipperary",2
+1646,1575000," 6 Vergemount Hall,Clonskeagh Road,Dublin 6,D06 V6R2",4
+1648,695000," Killadangan, Westport, Mayo",4
+1649,325000," Cross, Killadoon, Louisburgh, Mayo",5
+1650,495000," Aillemore, Louisburgh, Mayo, F28Y327",5
+1651,259000," 18 The Glebe, Louisburgh, Mayo",3
+1652,295000," 4 Hyacinth Street, North Strand, Dublin 3",2
+1654,3150000," 15 St Kevin's Park,Dartry,Dublin 6,D06 HW63",4
+1655,149000," 1 Limerick Road Lower, Camolin, Wexford",2
+1656,595000," 9 Milltown Court,Milltown Road,Dublin 6,D06 N9W0",3
+1657,350000," Ballingrane, Dingle, Kerry",3
+1658,350000," 10 Fernleigh Park, Castleknock, Dublin 15",3
+1659,575000," 200 Templeogue Road, Templeogue, Dublin 6W",3
+1660,135000," 128 Saint Michaels Avenue, Tipperary Town, Tipperary",3
+1661,145000," 192 Beeches Ballybofey, Co. Donegal",3
+1662,269000," 24 St John's Gate , Clondalkin, Dublin 22",2
+1663,245000," 12 Ashvale Court, Duleek, Meath",3
+1664,675000," 94 Holywell, Goatstown,   Dublin 14",4
+1665,400000," 1 Beech Lawn,Beaufort Place,Navan,Co Meath,C15Y2N4",4
+1666,385000," 53 Tynan Hall Avenue, Kingswood, Dublin 24",4
+1667,319000," 78 Brayton Park, Kilcock, Co. Kildare, Kilcock, Kildare",3
+1668,350000," Cois Cladagh, Kilmore Quay, Wexford",3
+1669,280000," Chapel Lane, Chapel Road, Lusk, Dublin, K45 X472",3
+1670,200000," 66 Fairgreen Park, Mullagh, Co Cavan",3
+1671,320000," 9 Oranhill Drive, Oranhill, Oranmore, Co. Galway, Oranmore, Galway",3
+1672,230000," 11 Lower Rutland Street, North City Centre, Dublin",2
+1673,445000," 20 Castaheany, Clonee, Dublin 15",4
+1674,235000," 17 INISFREE COURT, TONAPHUBBLE, SLIGO, Sligo City, Sligo",4
+1675,850000," Ashbrook Villa,Church Road,Rowlestown,Swords,Co Dublin",5
+1676,295000," 23 Applewood Main Street,Swords,Co Dublin,K67 E277",3
+1677,2150000," Oakley Manor, Ranelagh, Dublin 6",5
+1678,398000," 27 Dun Haven, Gorey, Wexford",4
+1679,299950," 33 Brookvale, Lucan, County Dublin",3
+1680,190000," 71 Cloondara, Ballisodare, Sligo",4
+1681,1050000," 23 Pearse Square, South City Centre, Dublin 2",3
+1682,450000," Coolmoyne, Fethard, Co. Tipperary",3
+1683,600000," 1 Beaufort Downs, Rathfarnham, Dublin 14",4
+1684,395000," 7 Stonehaven,Barndarrig,Redcross,County Wicklow,A67 XY10",4
+1685,210000," 39 Cloran Court, Athboy, Meath",3
+1686,249000," 3 Finn Eber Square, Finglas, Dublin 11",2
+1687,320000," 17 Inchvale Avenue, Shamrock Lawn, Douglas, Cork City",3
+1688,450000," Tinnock Upper, Gorey, Wexford",4
+1689,295000," 16 Maryborough Heights, Lissadell, Maryborough Hill, Douglas, Cork City",4
+1690,334950," 38 Millmountr, Mullingar, Westmeath",4
+1691,285000," 2 The Alders,Castlejane Woods,Glanmire,Cork,T45 NA03",3
+1692,995000," Mayfield, Liscannor, Clare",3
+1693,255000," Apartment 2, 66 Main Street, Clongriffin, Dublin 13",2
+1694,299950," 1A Woodford Heights, Clondalkin, Dublin 22",4
+1695,245000," 86 Rian Luachra, Ballybane, Galway City",3
+1696,235000," 87 Seafield Avenue, Sligo City, Sligo",3
+1697,445000," 3 The Avenue, Semple Wood, Donabate,   County Dublin",3
+1698,395000," 16 St Johns Street, Blackpitts, Dublin 8",2
+1699,690000," An Tuath Nua, Kildimo, Limerick",6
+1700,419950," 17 Cathedral View Walk, South City Centre - D8, Dublin 8",3
+1701,220000," 3 Saint Lappan's Place, Little Island, Cork",3
+1702,450000," 4 Reuben Avenue, Rialto, Dublin 8",3
+1703,549500," 57 Derg Hill, Cullenagh, Ballina, Tipperary",4
+1704,300000," Richardstown Lower, Kildangan, Kildare",3
+1705,250000," Ladysbridge, Midleton, Cork",3
+1706,1175000," 67 Beechwood Avenue Lower, Ranelagh, Dublin 6",4
+1707,625000," 30 Pembroke Cottages, Donnybrook, Dublin 4",2
+1708,700000," 41 Rathbeale Road, Swords, County Dublin",4
+1709,350000," Annaghdown, Corrandulla, Co. Galway",5
+1710,225000," Kingswell, Tipperary Town, Tipperary",3
+1711,1500000," Inver, 51 Dundela Park, Sandycove, Co. Dublin",6
+1712,795000," 18 Merton Walk, Mount St Anne's, Milltown, Dublin 6",3
+1713,1300000," 29 Newbridge Avenue,Sandymount,Dublin 4,D04 V5T3",4
+1714,625000," 1B Griffith Downs, Drumcondra, Dublin 9",3
+1715,425000," 39 South Dock Street,Ringsend,Dublin 4,D04 E165",2
+1716,835000," 2 Dromard Terrace,Sandymount,Dublin 4,D04 YH94",3
+1717,925000," 70 St Alban's Park,Sandymount,Dublin 4,D04 T2N6",3
+1718,495000," 16 Gilford Terrace,Sandymount,Dublin 4,D04 C652",2
+1719,324950," 202 Mourne Road , Drimnagh, Dublin 12",3
+1720,449950," 9 The Belfry St.Marys Road , Crumlin,   Dublin 12",3
+1721,1950000," 8 The Oaks, Carrickmines Wood, Brennanstown Road, Foxrock, Dublin 18",5
+1722,400000," 1 Mourne Lodge, Drimnagh, Dublin 12",3
+1723,685000," 6 New Russian Village, Kilquade, Wicklow",4
+1724,300000," Bunnamohaun,Clare Island,Co Mayo,F28 YC97",2
+1725,340000," 32 Whitehall,Daingean Road,Tullamore,Co Offaly,R35H2A4",5
+1726,172500," 38 Tola Park,Shannon,Co Clare,V14 P952",4
+1727,86000," 3 Lower William Street,New Ross,Co. Wexford,Y34 CH22",3
+1728,675000," Riverview,Limekiln Hill,Dublin Road,Navan,Co Meath",6
+1729,235000," 5 Mellows Terrace,Navan,Co Meath,C15 E9P9",3
+1730,985000," White Gables,Bettyville,Ballyboughal,Co Dublin,A41 TA46",5
+1731,795000," Oaklands,Kilmacredock,Maynooth,Co Kildare,W23D8C9",4
+1732,795000," 135 Lansdowne Park, Ballsbridge, Dublin 4",3
+1733,550000," no.3 Barack Road, Goleen, West Cork",4
+1734,175000," 45 Newborough,Gorey,Co Wexford,Y25A078",2
+1735,170000," 128 Glasan Village,Ballybane,Galway,H91 H6XA",3
+1736,495000," 1 Cherry Grove, Walkinstown, Dublin 12",4
+1737,295000," 36 Cherrywood, Castletown, . ., Celbridge, Co. Kildare",3
+1738,225000," 69 Cuil Na Canalacht, Ballinasloe, Galway",3
+1739,695000," The Castle Woods,Dromgarriff,Glengarriff,Co Cork,P75 VH48",3
+1740,795000," 44 Mulgrave Street, Dun Laoghaire, Co. Dublin",3
+1741,595000," An Fhoithint, Monkstown Grove, Monkstown, Co. Dublin",2
+1742,350000," 52 St Josephs Road, Greenhills, Dublin 12",3
+1743,175000," 3 Cherry Garth,Balbriggan,Co. Dublin,K32 XY27",1
+1744,295000," 2 Westbrook Crescent,Balbriggan,Co. Dublin,K32 HY94",3
+1745,895000," 3 Flann O'Brien Mews, Avoca Road, Blackrock, Co. Dublin",3
+1746,1150000," 58 Avoca Park, Blackrock, Co. Dublin",4
+1747,790000," 90 Springhill Avenue, Deansgrange, Blackrock, Co. Dublin",4
+1748,545000," 244 Foxrock Grove, Foxrock, Dublin 18",2
+1749,220000," ""Greenacres"" Kilbora, Camolin, Enniscorthy, Wexford",2
+1750,460000," Carcur Cottage,Spawell Road,Wexford Town,Y35 W5N3",5
+1751,169950," 22 Marian Terrace,Hacketstown,Co. Carlow,R93 V440",3
+1752,150000," 3 Waterslade Place,Tuam,Co. Galway,H54 CK30",8
+1753,230000," 22 The Cricket Fields,Dunmore Road,Tuam,Co. Galway,H54 X950",3
+1754,274950," Derryragh, Ballinamore, Ballyconnell, Co. Cavan",4
+1755,320000," 73a Thornville Road,Kilbarrack,Dublin 5,D05 TK33",2
+1756,795000," 116 Fosterbrook, Booterstown, Blackrock, Co. Dublin",4
+1757,325000," 55 Walkinstown Avenue, Walkinstown, Dublin 12",2
+1758,275000," 38 Rathcurragh, Green Road, Newbridge, Co. Kildare",3
+1759,1050000," 8 Fortfield Gardens,Rathmines,Dublin 6,D06 X8X0",3
+1760,450000," 42 Willington Park, Templeogue,   Dublin 6W",3
+1761,445000," 8 Arundel, Monkstown Valley, Monkstown, County Dublin",2
+1762,545000," 36 Obelisk Avenue, Blackrock, Co. Dublin",3
+1763,925000," Holly Lodge, 66 Carysfort Avenue, Blackrock, Co. Dublin",4
+1764,295000," 18 St Joseph's Avenue,Drumcondra,Dublin 9,D09 W1H2",1
+1765,425000," 85 Grace Park Heights,Drumcondra,Dublin 9,D09 YY62",3
+1766,155000," Ballyboro,Clonroche,Co. Wexford,Y21 H942",3
+1767,1650000," 23 Nutley Avenue, Donnybrook, Dublin 4",5
+1768,260000," 76 Old Balreask Woods,Navan,Co Meath,C15N5VC",3
+1769,875000," 52 St Gabriels,Johnstown Road,Cabinteely,Dublin 18,D18 H362",5
+1770,630000," 15 Lansdowne Village, Sandymount, Dublin 4",3
+1771,6000000," Coolfitch,Simmonstown Road,Celbridge,Co Kildare,W23XEW6",4
+1772,1150000," Heron's Ghyll, Cherrywood Road, D18, Loughlinstown, Dublin 18",4
+1773,130000," 1 Mahony's Square, Great William O'Brien Street, Blackpool, Cork",2
+1774,335000," 6 Aillebrack cottages, Ballyconneely, Ballyconneely, Galway",3
+1775,285000," 114 Harold's Cross Cottages, Harold's Cross, Dublin 6",1
+1776,105000," 9 Hazelhill Downs, Ballyhaunis, Mayo",2
+1777,229000," 56 Eiscir Island, Tullamore, Co. Offaly",4
+1778,950000," 8 Kribensis Manor,Willamstown Stud,Clonee,Co Meath,D15 XE8R",4
+1779,675000," 5 Templeroan Avenue,Knocklyon,Dublin 16,D16 K5X2",4
+1780,545000," 6 Stocking Wood Manor,Rathfarnham,Dublin 16,D16 HF82",4
+1781,275000," 36 Ravenswood Crescent, Clonsilla, Dublin 15",2
+1782,500000," 159 Whitecliff, Rathfarnham, Dublin 16",4
+1783,320000," 74 Dodsborough Cottages,Lucan,Co. Dublin,K78 W862",3
+1784,425000," 120 Palmerstown Drive,Palmerstown,Dublin 20,D20 H56",3
+1785,465000," 16 Westbury Avenue,Westbury Court,Lucan,Co Dublin,K78 Y6H9",4
+1786,550000," Dooneen, Crecora, Co. Limerick",5
+1787,140000," 9 Oaklawn Drive, Racecourse Road, Roscommon Town, Co. Roscommon",3
+1788,325000," Davmur House, Rathbawn Road, , Castlebar, Mayo",4
+1789,335000," Ardtullymore, Carlingford, Co. Louth",3
+1790,225000," Inishsheer, Islands, Galway",3
+1791,175000," Bella Vista,Drumbuoy,Lifford,Co Donegal,F93 Y0AV",3
+1792,430000," 18 Herberton Road,Drimnagh,Dublin 12,D12 KV96",3
+1793,295000," 17 Bluebell Avenue,Bluebell,Dublin 12,D12 EH63",2
+1794,825000," Bartragh House,Talbot's Inch,Freshford Road,Kilkenny,R95 RY6K",4
+1795,165000," 4 Warren View, Dromod, Leitrim",3
+1796,448950," 59 Old Mill Race,Athgarvan,Newbridge,Co. Kildare,W12 KF79",4
+1797,390000," Graigue Lower, Killenaule, Co. Tipperary",4
+1798,395000," 22 Killester Park,Killester,Dublin 5,D05 Y677",3
+1799,265000," Church Road, Tullamore, Offaly",3
+1800,360000," 46 Clanree Road,Donnycarney,D05 C952",2
+1801,645000," 145 Kilmacud Road Upper, Stillorgan, County Dublin",3
+1802,150000," 103 Sycamore Aveue, Rathbane, Limerick City",3
+1803,340000," 50 Willow Square, Primrose Gate, Celbridge, Kildare",3
+1804,250000," Powerfield House , Duncannon, Wexford",3
+1805,179950," 27 The Willows, Lakepoint Park, Mullingar, Westmeath",2
+1806,225000," 151 Newhaven Bay, Balbriggan, County Dublin",3
+1807,1200000," 3 Spa Mews, Muddy Hill, Mallow, Cork",2
+1808,350000," Kilbora Lane, Camolin, Gorey, Wexford",4
+1809,450000," Lee View, Mount Ovel, Rochestown, Cork",3
+1810,195000," 7 Main Street, Shrule, Mayo",4
+1811,345000," 8 Glentow Road, Whitehall, Dublin 9",2
+1812,284950," 5 The Boulevard, Tyrrelstown, Dublin 15",4
+1813,370000," 147 Gort na Coiribe,Headford Road,Galway,H91 A6XR",5
+1814,750000," ""St. Anne's"", 36D Chapelizod Hill Road, Chapelizod, Dublin 20",6
+1815,235000," 261 Kylemore Road, Ballyfermot,   Dublin 10",2
+1816,350000," Cloonshannagh, Rooskey, Roscommon",4
+1817,575000," 68 Balkill Park, Howth, Co. Dublin",3
+1818,425000," 11 Cadogan Road, Fairview, Dublin 3",4
+1819,1500000," Anglesea House, Lower Kensington, Coach Hill, Cork, Rochestown, Co. Cork",5
+1820,350000," 63 Kennelsfort Road, Palmerstown,   Dublin 20",3
+1821,240000," Coolkill, Kilnaleck, Co. Cavan",4
+1822,1950000," Holly Cottage, Toorard, Headford, Galway",4
+1823,220000," 20 Kilmartin Avenue, Tallaght, Dublin 24, D24PC7F",3
+1824,295000," 13 Gardiners Hill Avenue, Gardiners Hill, Cork , St Lukes, Cork",3
+1825,245000," 65 Mardyke Street, Skibbereen, West Cork",4
+1826,130000," 12 Churchfields,Doonbeg,Co. Clare,V15 EE70",3
+1827,195000," Clash, Abbeyfeale, Limerick",4
+1828,290000," Main Street, Emly, Co Tipperary",4
+1829,1195000," 24 Beechwood Avenue Lower,Ranelagh,Dublin 6,D06 YK29",3
+1830,325000," 198 Eagle Valley, Wilton, Cork",4
+1831,1495000," The Brambles, Streamstown Lane, Malahide, County Dublin",4
+1832,525000," The Boathouse, Knocknabinny, Kinsale, Cork",4
+1833,300000," 89 Glasanaon Road, Finglas East, Dublin 11, Dublin",3
+1834,275000," 48 Edenmore Grove, Edenmore, Dublin 5",2
+1835,359950," 84 Holly Court, Ballybrack, County Dublin",3
+1836,520000," 105 Comerfords Cross, Woodford Lane, Portmarnock, Dublin",3
+1837,575000," 12 Carrickhill Road Lower, Burrow, Portmarnock, Dublin, D13EC95",3
+1838,525000," 28 Balfe Avenue (House and site with FPP), Walkinstown, Dublin 12",6
+1839,475000," 1A Beechwood Lawns, Rathcoole, County Dublin",4
+1840,150000," 8 Chapel Street,Dundalk,Co. Louth",2
+1841,345000," 5 Castle Court,Lismore,Co Waterford,P51N6K4",4
+1842,295000," 74 Castle Lawns, Balrothery, Tallaght, Dublin 24",3
+1843,315000," 4 Waterside Way, Malahide, County Dublin",3
+1844,150000," Knockavilla,Dundrum,Co Tipperary,E34EH50",3
+1845,89000," Grellagh, Carrickaboy, Cavan",3
+1846,255000," 13 Gregg Road,Cork,T12ERY7",4
+1847,285000," Ardanragh, Lenamore, Legan, Longford",4
+1848,175000," 29 College Manor, Hoey's Lane, Dundalk, Co. Louth",3
+1849,495000," 2 St Josephs Drive, Montenotte, Cork",3
+1850,280000," 5 Saint Patricks Terrace,Lower Glanmire Road,Cork,T23 A2K0",3
+1851,450000," 16 Belarmine Way, Stepaside, Dublin 18",2
+1852,365000," Saint Anne, 40 John McCormack Avenue, Walkinstown, Dublin 12",3
+1853,140000," 10 Winters Hill,Sundays Well,Cork City,Cork,T23 YWH6",1
+1854,129000," Curryane,Swinford,Co Mayo,F12X290",3
+1855,1500000," Anglesea House, Lower Kensington, Coach Hill, Cork, Rochestown, Co. Cork",5
+1856,650000," The Roundhouse, Corrandulla, Co. Galway",4
+1857,465000," Hortland,Donadea,Naas,Co Kildare,W91 K76R",4
+1858,540000," 73 Carlingford Road, Drumcondra, Dublin 9",3
+1859,525000," 4 Newbrook Estate, Taylor's Lane, Rathfarnham, Dublin 16",3
+1860,595000," Saint Mary's,Main Street,Newcastle,Co. Dublin,D22 Y8K7",4
+1861,275000," Island, Ballyhaunis, Mayo",4
+1863,360000," Saint Ursula's, 38 Sundrive Park, Ballinlough, Cork",3
+1864,250000," Direens, Rossmore, Clonakilty,   West Cork",2
+1865,895000," 5 Cherbury Gardens,Booterstown,Co Dublin,A94 F6N7",4
+1866,1050000," 81 Monkstown Avenue,Monkstown,Co. Dublin,A94 T2X9",5
+1867,270000," 201 Connolly Road, Ballyphehane, Cork",3
+1868,195000," 3 Kilgarve Court, Creagh, Ballinsaloe, ., Ballinasloe, Co. Galway",4
+1869,595000," 56 Lower Churchtown Road,Churchtown,Dublin 14,D14 W302",3
+1870,185000," 1 Hillgrove Lane, Gerald Griffin Street, Blackpool, Cork",3
+1871,190000," 44 St. Laurence's Drive, Drogheda, Louth",3
+1872,2500000," Padua,30 Nutley Avenue,Donnybrook,Dublin 4,D04 R2A4",5
+1873,310000," 58 Allenview Heights, Newbridge, Kildare",4
+1874,410000," 22 Seagrave Park,Ratoath,Co Meath,A85 FC67",4
+1875,395000," 6 Lakeview, Virginia, Cavan",7
+1876,495000," 7 Ardmore Park, Bray, Wicklow",3
+1877,310000," 4 Ashfield, Arklow, Wicklow",4
+1878,845000," Apt 28, House 1, Linden Square, Grove Avenue, Blackrock, County Dublin",2
+1879,460000," Ballinclare, Ballycanew, Gorey, Wexford",5
+1880,330000," 10 Ashfield Way, Huntstown, Dublin 15",2
+1881,395000," 116 Ardbeg Park, Artane,   Dublin 5",3
+1882,285000," Woodview House, Mount Saint Benedict, Gorey, Wexford",3
+1883,195000," 23 O'Growney Drive, Mullingar, Westmeath",3
+1884,575000," 14 White Pines Heights,Stocking Avenue,Rathfarnham,Dublin 16,D16 A9P2",4
+1885,895000," 5 Apartments at 44 Southern Road, City Centre Sth, Cork City",9
+1886,995000," Woodstone Hall, Martinstown, Curragh, Kildare",4
+1887,550000," 27 Llewellyn Way, Rathfarnham, Dublin 16",4
+1888,295000," 204 Dundanion Blackrock Road , Blackrock, Cork City",4
+1889,290000," Friars Hill, Thomastown, Co. Kilkenny , Thomastown, Kilkenny",5
+1890,725000," 15 Grantham Place, Portobello, Dublin 8",3
+1891,275000," 185 Blarney Street, City Centre Nth, Cork City",3
+1892,600000," Valley View Cottage, Barracurragh, Kilanerin, Gorey, Wexford",5
+1893,359000," 4 Wilford Court, Bray, Wicklow",3
+1894,275000," 16 Middletown Valley, Gorey, Wexford",4
+1895,565000," 2 Millbridge Avenue,Mill Lane,Naas,Co Kildare,W91 NXC2",4
+1896,469000," Derrygorman, Westport, Mayo",4
+1897,995000," 92 Lower Dodder Road, Rathfarnham, Dublin 14",5
+1898,400000," 1 O'Neachtain Road, Drumcondra, Dublin 9",3
+1899,400000," 55 DONNYCARNEY ROAD, Donnycarney, Dublin 9",3
+1900,120000," Gortakileen Oola, Oola, Limerick",3
+1901,545000," Killintown, Multyfarnham, Westmeath",4
+1902,740000," 18 Brooklawn, Mount Merrion Avenue, Blackrock, Co. Dublin",3
+1903,935000," The Shelby, The Gallops, Clonee, Meath",5
+1904,290000," 52 Collins Drive, Finglas,   Dublin 11",3
+1905,525000," 10 Royse Road, Phibsboro,   Dublin 7",3
+1906,450000," 84 Eden Villas, Glasthule, Co. Dublin",2
+1907,495000," House and Apartment,Prospect,Westport,Co Mayo,F28 HX30",4
+1908,279000," The Cottage,Killawalla,Westport,Co  Mayo,F28 W2W8",2
+1909,1150000," The Quay,Westport,Co Mayo,F28 F5Y8",5
+1910,349000," Cushinkeel,Westport,Co Mayo,F28 F2C7",4
+1911,339000," 5 Cedar Court,Cedar Park,Newport Road,Westport,Co Mayo",4
+1912,395000," 45 Lorcan Avenue, Santry, Dublin 9",3
+1913,199000," Gilltown, Donadea, Kildare Town, Kildare",2
+1914,185000," 46 Knockcarrick, Annyalla, Castleblayney, Monaghan",3
+1915,980000," 7 Castle Avenue (Rear Detached House), Clontarf, Dublin 3",4
+1916,1200000," Carraig Rua, St Fintan's Road, Sutton, Dublin 13",5
+1917,250000," Main Street,Charleville,Co Cork,P56 T970",4
+1918,395000," 248 Collins Avenue East, Donnycarney, Dublin 5",2
+1919,50000," 1 James Connolly Street, Ballina, Mayo",1
+1920,395000," 5 Willow Bank, Sandyford Road, Dundrum, Dublin 16",2
+1921,550000," The Heathers,Annamoe,Co Wicklow,A98 V974",4
+1922,159950," 2 New Abbey Road, Kilcullen, Kildare",2
+1923,650000," 12 Portmarnock Crescent, Portmarnock, County Dublin",4
+1924,295000," Gallowhill Geraldine Road , Athy, Kildare",3
