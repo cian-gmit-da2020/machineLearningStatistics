@@ -8,6 +8,10 @@ The aim of this project, as described in assessment.pdf, is to provide a detaile
 
 Each module has its own jupyter notebook files which contain 
 
+# Running the code
+
+
+
 
 # scikit-Learn
 ## Overview/ intoduction
