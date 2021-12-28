@@ -11,8 +11,8 @@ Each module has its own jupyter notebook files which contain
 # Running the code
 
 
-
-
+[Binder Link](https://gesis.mybinder.org/binder/v2/gh/cian-gmit-da2020/machineLearningStatistics/13746485054db0bf80efbefe3399038e43dcea9f)
+[NB Viewer Link](https://nbviewer.org/github/cian-gmit-da2020/machineLearningStatistics/blob/main/project/scikit-learn.ipynb)
 # scikit-Learn
 ## Overview/ intoduction
 ## Algorithims
@@ -21,7 +21,7 @@ Each module has its own jupyter notebook files which contain
 ## References
 
 
-
+[Binder Link](https://gesis.mybinder.org/binder/v2/gh/cian-gmit-da2020/machineLearningStatistics/13746485054db0bf80efbefe3399038e43dcea9f)
 [NB Viewer Link](https://nbviewer.org/github/cian-gmit-da2020/machineLearningStatistics/blob/main/project/scipy-stats.ipynb)
 # scipy-stats
 ## Overview/ intoduction
