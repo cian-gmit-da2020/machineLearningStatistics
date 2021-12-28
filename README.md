@@ -11,13 +11,13 @@ The scikit-learn notebook focuses on 3 distinct machine learning algorithms, whi
 
 Each module has its own jupyter notebook .ipybn file which contain all the python code and descriptions written in markdown. Those files can be found in the notebooks folder.
 
-## Repository Contents
-### notebooks (folder)
-#### scikit-learn.ipynb
-#### scipy-stats.ipynb
-### README.md
-### assessment.pdf
-### requirements.txt
+## [Repository Contents](https://github.com/cian-gmit-da2020/machineLearningStatistics)
+### [notebooks (folder)](https://github.com/cian-gmit-da2020/machineLearningStatistics/tree/main/notebooks)
+#### [scikit-learn.ipynb](https://github.com/cian-gmit-da2020/machineLearningStatistics/blob/main/notebooks/scikit-learn.ipynb)
+#### [scipy-stats.ipynb](https://github.com/cian-gmit-da2020/machineLearningStatistics/blob/main/notebooks/scipy-stats.ipynb)
+### [README.md](https://github.com/cian-gmit-da2020/machineLearningStatistics/blob/main/README.md)
+### [assessment.pdf](https://github.com/cian-gmit-da2020/machineLearningStatistics/blob/main/assessment.pdf)
+### [requirements.txt](https://github.com/cian-gmit-da2020/machineLearningStatistics/blob/main/requirements.txt)
 ***
 # Running the code
 ## Run Locally
