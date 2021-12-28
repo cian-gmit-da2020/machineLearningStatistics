@@ -22,7 +22,7 @@ Each module has its own jupyter notebook files which contain
 
 
 
-
+[NB Viewer Link](https://nbviewer.org/github/cian-gmit-da2020/machineLearningStatistics/blob/main/project/scipy-stats.ipynb)
 # scipy-stats
 ## Overview/ intoduction
 ## AVOVA
